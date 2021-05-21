@@ -92,14 +92,17 @@ Links to the best articles debunking common Bitcoin FUD.
   * [Speculative Attack](https://nakamotoinstitute.org/mempool/speculative-attack/)
   * [A Most Peaceful Revoluion](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)
   * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
-
 * "Governments can attack the Bitcoin network"
   * [Bitcoin: Fee-Based Security Modeling](https://www.lynalden.com/bitcoin-security-modeling/)
+  * [Bitcoin is Antifragile](https://unchained-capital.com/blog/bitcoin-is-antifragile/)
 * "Bitcoin is not backed by anything"
   * [Bitcoin is Not Backed by Nothing](https://nakamotoinstitute.org/mempool/bitcoin-is-not-backed-by-nothing/)
 * "Bitcoin is mined/controlled by China"
   * [BetterHash: Decentralizing Bitcoin Mining With New Hashing Protocols](https://medium.com/hackernoon/betterhash-decentralizing-bitcoin-mining-with-new-hashing-protocols-291de178e3e0)
  
+## Tech
+
+* "Quantum computing breaks Bitcoin"
 
 # More Reading
 
