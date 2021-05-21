@@ -27,7 +27,7 @@ The best links to articles debunking the most common Bitcoin FUD.
 
 * "Bitcon is a Ponzi/pyramid scheme"
   * [Bitcoin is not a Pyramid Scheme](https://nakamotoinstitute.org/mempool/bitcoin-is-not-a-pyramid-scheme/)
-* "Bitcoin is for Criminals]
+* "Bitcoin is for Criminals"
   * [Bitcoin is Not for Criminals](https://nakamotoinstitute.org/mempool/bitcoin-is-not-for-criminals/)
 * "Bitcoin was not fairly distributed", "Bitcoin increases inequality"
   * [In support of the proof of work [un]fair launch](https://medium.com/@nic__carter/in-support-of-the-proof-of-work-un-fair-launch-cd6e8f06358f)
