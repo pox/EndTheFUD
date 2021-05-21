@@ -6,6 +6,11 @@ The best links to short articles debunking Bitcoin FUD
 
 * [Why Bitcoin’s Imitators Are Scams](https://tomerstrolight.medium.com/why-bitcoins-imitators-are-scams-e38fab4c78ba)
 
+### Proof-of-Stake
+
+* [What's Wrong with Proof of Stake?](https://medium.com/@BobMcElrath/whats-wrong-with-proof-of-stake-77d4f370be15)
+* [Proof-of-Stake Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Stake-Fallacy)
+
 ## Full Guides
 
 ## Books
