@@ -17,13 +17,15 @@ The best links to articles debunking the most common Bitcoin FUD.
 * "Coin X is faster than Bitcoin"
   * [It’s the settlement assurances, stupid](https://medium.com/@nic__carter/its-the-settlement-assurances-stupid-5dcd1c3f4e41)
   * [Bitcoin is Not Too Slow](https://nakamotoinstitute.org/mempool/bitcoin-is-not-too-slow/)
+* "Coin X is more fairly distributed than Bitcoin"
+  * See [Justice](#justice)
 * [Bitcoin Can't Be Copied](https://nakamotoinstitute.org/mempool/bitcoin-cant-be-copied/)
 * [Bitcoin, Not Blockchain](https://nakamotoinstitute.org/mempool/bitcoin-not-blockchain/)
 * "Bitcoin will be replaced by some other coin", "Bitcoin is the MySpace of crypto"
   * [Bitcoin Obsoletes All Other Money](https://nakamotoinstitute.org/mempool/bitcoin-obsoletes-all-other-money/)
   * [Ethereum is Doomed](https://nakamotoinstitute.org/mempool/ethereum-is-doomed/)
 
-## Scam
+## Justice
 
 * "Bitcon is a Ponzi/pyramid scheme"
   * [Bitcoin is not a Pyramid Scheme](https://nakamotoinstitute.org/mempool/bitcoin-is-not-a-pyramid-scheme/)
@@ -31,6 +33,7 @@ The best links to articles debunking the most common Bitcoin FUD.
   * [Bitcoin is Not for Criminals](https://nakamotoinstitute.org/mempool/bitcoin-is-not-for-criminals/)
 * "Bitcoin was not fairly distributed", "Bitcoin increases inequality"
   * [In support of the proof of work [un]fair launch](https://medium.com/@nic__carter/in-support-of-the-proof-of-work-un-fair-launch-cd6e8f06358f)
+  * [ASIC Resistance is Nothing but a Blockchain Buzzword](https://medium.com/hackernoon/asic-resistance-is-nothing-but-a-blockchain-buzzword-b91d3d770366)
 
 
 ## As Money
@@ -60,6 +63,11 @@ The best links to articles debunking the most common Bitcoin FUD.
 * [Proof-of-Stake Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Stake-Fallacy)
 * [Nothing is Cheaper than Proof of Work](https://www.truthcoin.info/blog/pow-cheapest/)
 
+## Control over Bitcoin
+
+* "Miners control Bitcoin"
+* "Blockstream controls Bitcoin"
+
 ## Governments
 
 * "Governments decide what counts as money"
@@ -71,6 +79,8 @@ The best links to articles debunking the most common Bitcoin FUD.
   * [A Most Peaceful Revoluion](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)
 * "Bitcoin is not backed by anything"
   * [Bitcoin is Not Backed by Nothing](https://nakamotoinstitute.org/mempool/bitcoin-is-not-backed-by-nothing/)
+* "Bitcoin is mined/controlled by China"
+  * [BetterHash: Decentralizing Bitcoin Mining With New Hashing Protocols](https://medium.com/hackernoon/betterhash-decentralizing-bitcoin-mining-with-new-hashing-protocols-291de178e3e0)
  
 
 # More Reading
