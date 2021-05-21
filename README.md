@@ -1,6 +1,6 @@
 # End The FUD
 
-The best links to short articles debunking the most common Bitcoin FUD.
+The best links to articles debunking the most common Bitcoin FUD.
 
 ## The Environment
 
