@@ -80,8 +80,10 @@ Links to the best articles debunking common Bitcoin FUD.
   * [Subjective Theory of Value](https://en.m.wikipedia.org/wiki/Subjective_theory_of_value)
   * [Regresssion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Regression-Fallacy)
   * [Case Bitcoin: No Intrinsic Value](https://casebitcoin.com/critiques/no-intrinsic-value)
+  * [Bitcoin is a Bubble](https://casebitcoin.com/critiques/bitcoin-is-a-bubble)
 * "Bitcoin isn't scalable", "Can't process as many payments as Visa"
   * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
+* ["Bitcoin is Being Pumped by Tether"](https://casebitcoin.com/critiques/bitcoin-is-pumped-by-tether)
 
 ## Inflation
 
@@ -126,6 +128,7 @@ Links to the best articles debunking common Bitcoin FUD.
   * [Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
 * "Bitcoin is mined/controlled by China"
   * [BetterHash: Decentralizing Bitcoin Mining With New Hashing Protocols](https://medium.com/hackernoon/betterhash-decentralizing-bitcoin-mining-with-new-hashing-protocols-291de178e3e0)
+  * [Common Bitcoin Critiques: China Controls Bitcoin](https://casebitcoin.com/critiques/china-controls-bitcoin)
 * "Governments will create their own crypto coin and force it on people"
   * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#central-bank-digital-currencies)
  
@@ -136,6 +139,7 @@ Links to the best articles debunking common Bitcoin FUD.
   * [Quantum attacks on Bitcoin, and how to protect against them](https://arxiv.org/abs/1710.10377)
   * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#quantum-computing-will-break)
 * "[Block rewards will stop in the future and Bitcoin will lose all security](https://safehodl.github.io/failure/#block-rewards-will-stop)"
+* ["Bitcoin Gets Hacked"](https://casebitcoin.com/critiques/bitcoin-gets-hacked)
 
 # More Reading
 
