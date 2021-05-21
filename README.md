@@ -125,7 +125,7 @@ Links to the best articles debunking common Bitcoin FUD.
 
 Please feel free to add and improve by submitting pull-requests.
 
-Source should be free (not behing a pay-wall).
+Sources should be free (not behing a pay-wall).
 
 It's okay to link the same source more than once if it applies to multiple topics.
 
