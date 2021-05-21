@@ -9,8 +9,11 @@ The best links to articles debunking the most common Bitcoin FUD.
   * [The Bitcoin vs Visa Electricity Consumption Fallacy](https://hackernoon.com/the-bitcoin-vs-visa-electricity-consumption-fallacy-8cf194987a50)
 * "Bitcoin wastes energy"
   * [Three Myths about Bitcoin’s Energy Consumption](https://blog.trezor.io/three-myths-about-bitcoins-energy-consumption-ef613a1f3d5)
+  * [On Bitcoin's Energy Consumption](https://docsend.com/view/adwmdeeyfvqwecj2)
+  * [Natural gas venting: How Bitcoin solved a 160 year old problem.](https://www.upstreamdata.ca/post/natural-gas-venting-how-bitcoin-solved-a-160-year-old-problem)
 * "Uses dirty, non-renewable energy"
   * [Noahbjectivity on Bitcoin Mining](https://medium.com/@nic__carter/noahbjectivity-on-bitcoin-mining-2052226310cb)
+  * [Jack Dorsey Says Bitcoin Can Make the World Greener. Could He Be Right?](https://nymag.com/intelligencer/2021/05/jack-dorsey-says-bitcoin-is-climate-friendly-is-he-right.html)
 * Emissions & Comparison with Gold Mining: [Yellow Rock Bad, Orange Coin Good: Environmental & Social Impacts of Gold & Bitcoin](https://youtu.be/ns_I2LpeAbQ?t=26084)
 * [Bitcoin Does Not Waste Energy](https://nakamotoinstitute.org/mempool/bitcoin-does-not-waste-energy/)
 
@@ -26,12 +29,17 @@ The best links to articles debunking the most common Bitcoin FUD.
 * [Bitcoin, Not Blockchain](https://nakamotoinstitute.org/mempool/bitcoin-not-blockchain/)
 * "Bitcoin will be replaced by some other coin", "Bitcoin is the MySpace of crypto"
   * [Bitcoin Obsoletes All Other Money](https://nakamotoinstitute.org/mempool/bitcoin-obsoletes-all-other-money/)
-  * [Ethereum is Doomed](https://nakamotoinstitute.org/mempool/ethereum-is-doomed/)
+  * [Analyzing Bitcoin's Network Effect](https://www.lynalden.com/bitcoins-network-effect/)
+  * Ethereum
+    * [An Economic Analysis of Ethereum](https://www.lynalden.com/ethereum-analysis/)
+    * [Ethereum is Doomed](https://nakamotoinstitute.org/mempool/ethereum-is-doomed/)
+
 
 ## Justice
 
 * "Bitcon is a Ponzi/pyramid scheme"
   * [Bitcoin is not a Pyramid Scheme](https://nakamotoinstitute.org/mempool/bitcoin-is-not-a-pyramid-scheme/)
+  * [Bitcoin: Addressing the Ponzi Scheme Characterization](https://www.lynalden.com/bitcoin-ponzi-scheme/)
 * "Bitcoin is for Criminals"
   * [Bitcoin is Not for Criminals](https://nakamotoinstitute.org/mempool/bitcoin-is-not-for-criminals/)
 * "Bitcoin was not fairly distributed", "Bitcoin increases inequality"
@@ -42,15 +50,15 @@ The best links to articles debunking the most common Bitcoin FUD.
 ## As Money
 
 * [Bitcoin is Not Too Volatile](https://nakamotoinstitute.org/mempool/bitcoin-is-not-too-volatile/)
+  * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
 * "Bitcoin is a bad medium-of-exchange"
   * [The Bullish Case for Bitcoin](https://nakamotoinstitute.org/mempool/the-bullish-case-for-bitcoin/)
-* "Bitcoin has no value"
+* "Bitcoin has no value", "Bitcoin is a bubble"
   * [Value Proposition](https://github.com/libbitcoin/libbitcoin-system/wiki/Value-Proposition)
-
-## Price
-
-* [How we Know Bitcoin is Not a Bubble](https://nakamotoinstitute.org/mempool/how-we-know-bitcoin-is-not-a-bubble/)
- 
+  * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
+  * [How we Know Bitcoin is Not a Bubble](https://nakamotoinstitute.org/mempool/how-we-know-bitcoin-is-not-a-bubble/)
+* "Bitcoin isn't scalable", "Can't process as many payments as Visa"
+  * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
 
 ## Inflation
 
@@ -81,6 +89,10 @@ The best links to articles debunking the most common Bitcoin FUD.
   * [Bitcoin Cannot Be Banned](https://nakamotoinstitute.org/mempool/bitcoin-cannot-be-banned/)
   * [Speculative Attack](https://nakamotoinstitute.org/mempool/speculative-attack/)
   * [A Most Peaceful Revoluion](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)
+  * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
+
+* "Governments can attack the Bitcoin network"
+  * [Bitcoin: Fee-Based Security Modeling](https://www.lynalden.com/bitcoin-security-modeling/)
 * "Bitcoin is not backed by anything"
   * [Bitcoin is Not Backed by Nothing](https://nakamotoinstitute.org/mempool/bitcoin-is-not-backed-by-nothing/)
 * "Bitcoin is mined/controlled by China"
@@ -105,6 +117,7 @@ The best links to articles debunking the most common Bitcoin FUD.
 * Tomer Strolight: [Medium](https://tomerstrolight.medium.com/)
 * Allen Farrington: [Medium](https://allenfarrington.medium.com/)
 * Nik Bhatia: [Medium](https://timevalueofbtc.medium.com/)
+* [Lyn Alden](https://www.lynalden.com/author/penumbra/)
 
 # Contributing
 
