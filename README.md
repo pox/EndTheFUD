@@ -85,6 +85,7 @@ The best links to articles debunking the most common Bitcoin FUD.
 * "Governments decide what counts as money"
   * [Shelling Out](https://nakamotoinstitute.org/shelling-out/)
   * [The Bitcoin Standard (chapters 1-3)](https://saifedean.com/book/)
+  * [The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/)
 * "Governments can ban Bitcoin"
   * [Bitcoin Cannot Be Banned](https://nakamotoinstitute.org/mempool/bitcoin-cannot-be-banned/)
   * [Speculative Attack](https://nakamotoinstitute.org/mempool/speculative-attack/)
