@@ -33,6 +33,7 @@ Links to the best articles debunking common Bitcoin FUD.
   * Ethereum
     * [An Economic Analysis of Ethereum](https://www.lynalden.com/ethereum-analysis/)
     * [Ethereum is Doomed](https://nakamotoinstitute.org/mempool/ethereum-is-doomed/)
+  * [Pre-Bitcoin Literature @ Satoshi Nakamoto Institute](https://nakamotoinstitute.org/literature/)
 
 
 ## Justice
