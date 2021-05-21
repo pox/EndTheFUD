@@ -47,6 +47,7 @@ Links to the best articles debunking common Bitcoin FUD.
 * "Bitcoin developers can increase its inflation"
   * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#scarcity-can-be-changed)
 * "The 21 million BTC supply cap means nothing because anyone can fork Bitcoin"
+  * [Bitcoin can be forked infinitely which dilutes the value](Bitcoin can be forked infinitely which dilutes the value)
 * [Shitcoin Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Shitcoin-Definition)
 
 ## Justice
@@ -120,6 +121,7 @@ Links to the best articles debunking common Bitcoin FUD.
 * "Bitcoin is mined/controlled by China"
   * [BetterHash: Decentralizing Bitcoin Mining With New Hashing Protocols](https://medium.com/hackernoon/betterhash-decentralizing-bitcoin-mining-with-new-hashing-protocols-291de178e3e0)
 * "Governments will create their own crypto coin and force it on people"
+  * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#central-bank-digital-currencies)
  
 ## Tech
 
