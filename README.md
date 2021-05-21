@@ -2,14 +2,21 @@
 
 The best links to short articles debunking Bitcoin FUD
 
+# Energy Consumption
+
+* "Uses more energy than Visa": [On Bitcoin, the Gray Lady Embraces Climate Lysenkoism](https://medium.com/@nic__carter/on-bitcoin-the-gray-lady-embraces-climate-lysenkoism-a2d31e465ec0)
+* "Uses dirty, non-renewable energy": [Noahbjectivity on Bitcoin Mining](https://medium.com/@nic__carter/noahbjectivity-on-bitcoin-mining-2052226310cb)
+
 ## Altcoins
 
 * [Why Bitcoin’s Imitators Are Scams](https://tomerstrolight.medium.com/why-bitcoins-imitators-are-scams-e38fab4c78ba)
+* "Coin X is faster than Bitcoin": [It’s the settlement assurances, stupid](https://medium.com/@nic__carter/its-the-settlement-assurances-stupid-5dcd1c3f4e41)
 
 ### Proof-of-Stake
 
 * [What's Wrong with Proof of Stake?](https://medium.com/@BobMcElrath/whats-wrong-with-proof-of-stake-77d4f370be15)
 * [Proof-of-Stake Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Stake-Fallacy)
+* [Nothing is Cheaper than Proof of Work](https://www.truthcoin.info/blog/pow-cheapest/)
 
 ## Full Guides
 
@@ -20,3 +27,10 @@ The best links to short articles debunking Bitcoin FUD
 * [The Bitcoin Standard](https://saifedean.com/book/)
 * Cryptoeconomics: [Book](https://voskuil.org/cryptoeconomics/), [Wiki](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics)
 * [Thank God for Bitcoin](https://www.amazon.com/Thank-God-Bitcoin-Corruption-Redemption/dp/1641991216/ref=sr_1_1?dchild=1&keywords=thank+god+for+bitcoin&qid=1607152012&sr=8-1)
+
+# Writers
+
+* Nic Carter: [Medium](https://medium.com/@nic__carter)
+* Tomer Strolight: [Medium](https://tomerstrolight.medium.com/)
+* Allen Farrington: [Medium](https://allenfarrington.medium.com/)
+* Nik Bhatia: [Medium](https://timevalueofbtc.medium.com/)
