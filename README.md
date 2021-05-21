@@ -25,6 +25,7 @@ Links to the best articles debunking common Bitcoin FUD.
 * "Uses dirty, non-renewable energy"
   * [Noahbjectivity on Bitcoin Mining](https://medium.com/@nic__carter/noahbjectivity-on-bitcoin-mining-2052226310cb)
   * [Jack Dorsey Says Bitcoin Can Make the World Greener. Could He Be Right?](https://nymag.com/intelligencer/2021/05/jack-dorsey-says-bitcoin-is-climate-friendly-is-he-right.html)
+  * [Beware of Lazy Research: Let’s Talk Electricity Waste & How Bitcoin Mining Can Power A Renewable Energy Renaissance](https://medium.com/coinshares/beware-of-lazy-research-c828c900b7d5)
 * Emissions & Comparison with Gold Mining: [Yellow Rock Bad, Orange Coin Good: Environmental & Social Impacts of Gold & Bitcoin](https://youtu.be/ns_I2LpeAbQ?t=26084)
 * [Bitcoin's Energy Consumption - A shift in perspective](https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/)
 
@@ -85,7 +86,10 @@ Links to the best articles debunking common Bitcoin FUD.
   * [Bitcoin is a Bubble](https://casebitcoin.com/critiques/bitcoin-is-a-bubble)
 * "Bitcoin isn't scalable", "Can't process as many payments as Visa"
   * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
-* ["Bitcoin is Being Pumped by Tether"](https://casebitcoin.com/critiques/bitcoin-is-pumped-by-tether)
+* Tether
+  * ["Bitcoin is Being Pumped by Tether"](https://casebitcoin.com/critiques/bitcoin-is-pumped-by-tether)
+  * [Don't Fear Tether](https://danheld.substack.com/p/dont-fear-tether)
+
 
 ## Inflation
 
@@ -142,7 +146,8 @@ Links to the best articles debunking common Bitcoin FUD.
   * [What effects would a scalable Quantum Computer have on Bitcoin?](https://bitcoin.stackexchange.com/questions/6062/what-effects-would-a-scalable-quantum-computer-have-on-bitcoin)
   * [Quantum attacks on Bitcoin, and how to protect against them](https://arxiv.org/abs/1710.10377)
   * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#quantum-computing-will-break)
-* "[Block rewards will stop in the future and Bitcoin will lose all security](https://safehodl.github.io/failure/#block-rewards-will-stop)"
+  * [Here’s Why Quantum Computing Will Not Break Cryptocurrencies](https://www.forbes.com/sites/rogerhuang/2020/12/21/heres-why-quantum-computing-will-not-break-cryptocurrencies/?sh=24a95b3c167b)
+* ["Block rewards will stop in the future and Bitcoin will lose all security"](https://safehodl.github.io/failure/#block-rewards-will-stop)
 * ["Bitcoin Gets Hacked"](https://casebitcoin.com/critiques/bitcoin-gets-hacked)
 
 # More Reading
@@ -156,6 +161,7 @@ Links to the best articles debunking common Bitcoin FUD.
 ## Full Guides
 
 * [Why Bitcoin](https://tomerstrolight.medium.com/why-bitcoin-the-series-660fe20ec244)
+* [Getting Started With Bitcoin](https://www.lopp.net/bitcoin-information/getting-started.html)
 
 ## Books
 
