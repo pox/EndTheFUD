@@ -8,7 +8,7 @@ Links to the best articles debunking common Bitcoin FUD.
   * [On Bitcoin, the Gray Lady Embraces Climate Lysenkoism](https://medium.com/@nic__carter/on-bitcoin-the-gray-lady-embraces-climate-lysenkoism-a2d31e465ec0)
   * [The Bitcoin vs Visa Electricity Consumption Fallacy](https://hackernoon.com/the-bitcoin-vs-visa-electricity-consumption-fallacy-8cf194987a50)
   * [What Bloomberg Gets Wrong About Bitcoin’s Climate Footprint](https://www.coindesk.com/what-bloomberg-gets-wrong-about-bitcoins-climate-footprint)
-  * [https://www.coindesk.com/frustrating-maddening-all-consuming-bitcoin-energy-debate](https://www.coindesk.com/frustrating-maddening-all-consuming-bitcoin-energy-debate)
+  * [The Frustrating, Maddening, All-Consuming Bitcoin Energy Debate](https://www.coindesk.com/frustrating-maddening-all-consuming-bitcoin-energy-debate)
 * "Bitcoin wastes energy"
   * [Three Myths about Bitcoin’s Energy Consumption](https://blog.trezor.io/three-myths-about-bitcoins-energy-consumption-ef613a1f3d5)
   * [On Bitcoin's Energy Consumption](https://docsend.com/view/adwmdeeyfvqwecj2)
