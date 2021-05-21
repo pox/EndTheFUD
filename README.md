@@ -133,6 +133,7 @@ Links to the best articles debunking common Bitcoin FUD.
 * Allen Farrington: [Medium](https://allenfarrington.medium.com/)
 * Nik Bhatia: [Medium](https://timevalueofbtc.medium.com/)
 * [Lyn Alden](https://www.lynalden.com/author/penumbra/)
+* Parker Lewis: [Blog](https://unchained-capital.com/blog/author/plewis/)
 
 # Contributing
 
