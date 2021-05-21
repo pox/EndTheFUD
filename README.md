@@ -39,6 +39,7 @@ Links to the best articles debunking common Bitcoin FUD.
   * [Pre-Bitcoin Literature @ Satoshi Nakamoto Institute](https://nakamotoinstitute.org/literature/)
 * "Bitcoin developers can increase its inflation"
 * "The 21 million BTC supply cap means nothing because anyone can fork Bitcoin"
+* [Shitcoin Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Shitcoin-Definition)
 
 ## Justice
 
