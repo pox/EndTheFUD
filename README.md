@@ -2,7 +2,7 @@
 
 Links to the best articles debunking common Bitcoin FUD.
 
-## The Environment
+## Energy & The Environment
 
 * "Uses more energy than Visa"
   * [On Bitcoin, the Gray Lady Embraces Climate Lysenkoism](https://medium.com/@nic__carter/on-bitcoin-the-gray-lady-embraces-climate-lysenkoism-a2d31e465ec0)
@@ -12,6 +12,9 @@ Links to the best articles debunking common Bitcoin FUD.
   * [On Bitcoin's Energy Consumption](https://docsend.com/view/adwmdeeyfvqwecj2)
   * [Natural gas venting: How Bitcoin solved a 160 year old problem.](https://www.upstreamdata.ca/post/natural-gas-venting-how-bitcoin-solved-a-160-year-old-problem)
   * [Bitcoin Does Not Waste Energy](https://nakamotoinstitute.org/mempool/bitcoin-does-not-waste-energy/)
+  * [Energy Waste Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Waste-Fallacy)
+  * "Bitcoin might exhaust all energy available to people"
+    * [Energy Exhaustion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Exhaustion-Fallacy)
 * "Uses dirty, non-renewable energy"
   * [Noahbjectivity on Bitcoin Mining](https://medium.com/@nic__carter/noahbjectivity-on-bitcoin-mining-2052226310cb)
   * [Jack Dorsey Says Bitcoin Can Make the World Greener. Could He Be Right?](https://nymag.com/intelligencer/2021/05/jack-dorsey-says-bitcoin-is-climate-friendly-is-he-right.html)
@@ -59,6 +62,8 @@ Links to the best articles debunking common Bitcoin FUD.
   * [Value Proposition](https://github.com/libbitcoin/libbitcoin-system/wiki/Value-Proposition)
   * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
   * [How we Know Bitcoin is Not a Bubble](https://nakamotoinstitute.org/mempool/how-we-know-bitcoin-is-not-a-bubble/)
+  * [Subjective Theory of Value](https://en.m.wikipedia.org/wiki/Subjective_theory_of_value)
+  * [Regresssion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Regression-Fallacy)
 * "Bitcoin isn't scalable", "Can't process as many payments as Visa"
   * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
 
@@ -80,6 +85,7 @@ Links to the best articles debunking common Bitcoin FUD.
 
 * "Miners control Bitcoin"
   * [Bitcoin Miners Beware: Invalid Blocks Need Not Apply](https://medium.com/hackernoon/bitcoin-miners-beware-invalid-blocks-need-not-apply-51c293ee278b)
+  * [ASIC Monopoly Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/ASIC-Monopoly-Fallacy)
 * "Blockstream controls Bitcoin"
 
 ## Governments
