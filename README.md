@@ -4,15 +4,19 @@ Links to the best articles debunking common Bitcoin FUD.
 
 ## Energy & The Environment
 
-* "Uses more energy than Visa"
+* "Uses more energy than Visa per transaction"
   * [On Bitcoin, the Gray Lady Embraces Climate Lysenkoism](https://medium.com/@nic__carter/on-bitcoin-the-gray-lady-embraces-climate-lysenkoism-a2d31e465ec0)
   * [The Bitcoin vs Visa Electricity Consumption Fallacy](https://hackernoon.com/the-bitcoin-vs-visa-electricity-consumption-fallacy-8cf194987a50)
+  * [What Bloomberg Gets Wrong About Bitcoin’s Climate Footprint](https://www.coindesk.com/what-bloomberg-gets-wrong-about-bitcoins-climate-footprint)
+  * [https://www.coindesk.com/frustrating-maddening-all-consuming-bitcoin-energy-debate](https://www.coindesk.com/frustrating-maddening-all-consuming-bitcoin-energy-debate)
 * "Bitcoin wastes energy"
   * [Three Myths about Bitcoin’s Energy Consumption](https://blog.trezor.io/three-myths-about-bitcoins-energy-consumption-ef613a1f3d5)
   * [On Bitcoin's Energy Consumption](https://docsend.com/view/adwmdeeyfvqwecj2)
   * [Natural gas venting: How Bitcoin solved a 160 year old problem.](https://www.upstreamdata.ca/post/natural-gas-venting-how-bitcoin-solved-a-160-year-old-problem)
   * [Bitcoin Does Not Waste Energy](https://nakamotoinstitute.org/mempool/bitcoin-does-not-waste-energy/)
   * [Energy Waste Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Waste-Fallacy)
+  * [The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption)
+  * [How Much Energy Does Bitcoin Actually Consume?](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume)
   * "Bitcoin might exhaust all energy available to people"
     * [Energy Exhaustion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Exhaustion-Fallacy)
 * "Uses dirty, non-renewable energy"
