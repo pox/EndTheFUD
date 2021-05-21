@@ -111,7 +111,8 @@ Links to the best articles debunking common Bitcoin FUD.
 ## Tech
 
 * "Quantum computing breaks Bitcoin"
-  * [https://bitcoin.stackexchange.com/questions/6062/what-effects-would-a-scalable-quantum-computer-have-on-bitcoin](https://bitcoin.stackexchange.com/questions/6062/what-effects-would-a-scalable-quantum-computer-have-on-bitcoin)
+  * [What effects would a scalable Quantum Computer have on Bitcoin?](https://bitcoin.stackexchange.com/questions/6062/what-effects-would-a-scalable-quantum-computer-have-on-bitcoin)
+  * [Quantum attacks on Bitcoin, and how to protect against them](https://arxiv.org/abs/1710.10377)
 
 # More Reading
 
