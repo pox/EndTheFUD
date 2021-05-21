@@ -19,6 +19,7 @@ Links to the best articles debunking common Bitcoin FUD.
   * [How Much Energy Does Bitcoin Actually Consume?](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume)
   * [Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
   * [Common Critiques #4: Bitcoin Wastes Energy](https://casebitcoin.com/critiques/bitcoin-wastes-energy)
+  * [The Bitcoin Mining Network: Trends, Average Creation Costs, Electricity Consumption & Sources](https://coinshares.com/research/bitcoin-mining-network-december-2019)
   * "Bitcoin might exhaust all energy available to people"
     * [Energy Exhaustion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Exhaustion-Fallacy)
 * "Uses dirty, non-renewable energy"
@@ -121,6 +122,7 @@ Links to the best articles debunking common Bitcoin FUD.
   * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
   * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#governments-will-stop)
   * [Common Bitcoin Critiques](https://casebitcoin.com/critiques/gov-will-shut-it-down)
+  * [Can Governments Stop Bitcoin?](https://quillette.com/2021/02/21/can-governments-stop-bitcoin/)
 * "Governments can attack the Bitcoin network"
   * [Bitcoin: Fee-Based Security Modeling](https://www.lynalden.com/bitcoin-security-modeling/)
   * [Bitcoin is Antifragile](https://unchained-capital.com/blog/bitcoin-is-antifragile/)
@@ -130,6 +132,7 @@ Links to the best articles debunking common Bitcoin FUD.
 * "Bitcoin is mined/controlled by China"
   * [BetterHash: Decentralizing Bitcoin Mining With New Hashing Protocols](https://medium.com/hackernoon/betterhash-decentralizing-bitcoin-mining-with-new-hashing-protocols-291de178e3e0)
   * [Common Bitcoin Critiques: China Controls Bitcoin](https://casebitcoin.com/critiques/china-controls-bitcoin)
+  * [Are Chinese Miners a Threat to Bitcoin?](https://blog.lopp.net/are-chinese-miners-threat-bitcoin/)
 * "Governments will create their own crypto coin and force it on people"
   * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#central-bank-digital-currencies)
  
