@@ -18,6 +18,7 @@ Links to the best articles debunking common Bitcoin FUD.
   * [The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption)
   * [How Much Energy Does Bitcoin Actually Consume?](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume)
   * [Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
+  * [Common Critiques #4: Bitcoin Wastes Energy](https://casebitcoin.com/critiques/bitcoin-wastes-energy)
   * "Bitcoin might exhaust all energy available to people"
     * [Energy Exhaustion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Exhaustion-Fallacy)
 * "Uses dirty, non-renewable energy"
@@ -46,8 +47,9 @@ Links to the best articles debunking common Bitcoin FUD.
   * [Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
 * "Bitcoin developers can increase its inflation"
   * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#scarcity-can-be-changed)
-* "The 21 million BTC supply cap means nothing because anyone can fork Bitcoin"
-  * [Bitcoin can be forked infinitely which dilutes the value](Bitcoin can be forked infinitely which dilutes the value)
+* "Bitcoin is not scarce because it can be cloned"
+  * [Bitcoin can be forked infinitely which dilutes the value](https://safehodl.github.io/failure/#can-be-forked-infinitely)
+  * [Bitcoin Can Be Cloned](https://casebitcoin.com/critiques/bitcoin-can-be-cloned)
 * [Shitcoin Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Shitcoin-Definition)
 
 ## Justice
@@ -58,6 +60,7 @@ Links to the best articles debunking common Bitcoin FUD.
 * "Bitcoin is for Criminals"
   * [Bitcoin is Not for Criminals](https://nakamotoinstitute.org/mempool/bitcoin-is-not-for-criminals/)
   * [Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
+  * [Bitcoin Common Critiques #5: Bitcoin is Used by Criminals](https://casebitcoin.com/critiques/bitcoin-is-used-by-criminals)
 * "Bitcoin was not fairly distributed", "Bitcoin increases inequality"
   * [In support of the proof of work [un]fair launch](https://medium.com/@nic__carter/in-support-of-the-proof-of-work-un-fair-launch-cd6e8f06358f)
   * [ASIC Resistance is Nothing but a Blockchain Buzzword](https://medium.com/hackernoon/asic-resistance-is-nothing-but-a-blockchain-buzzword-b91d3d770366)
@@ -114,6 +117,7 @@ Links to the best articles debunking common Bitcoin FUD.
   * [A Most Peaceful Revoluion](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)
   * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
   * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#governments-will-stop)
+  * [Common Bitcoin Critiques](https://casebitcoin.com/critiques/gov-will-shut-it-down)
 * "Governments can attack the Bitcoin network"
   * [Bitcoin: Fee-Based Security Modeling](https://www.lynalden.com/bitcoin-security-modeling/)
   * [Bitcoin is Antifragile](https://unchained-capital.com/blog/bitcoin-is-antifragile/)
