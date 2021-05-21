@@ -66,6 +66,7 @@ The best links to articles debunking the most common Bitcoin FUD.
 ## Control over Bitcoin
 
 * "Miners control Bitcoin"
+  * [Bitcoin Miners Beware: Invalid Blocks Need Not Apply](https://medium.com/hackernoon/bitcoin-miners-beware-invalid-blocks-need-not-apply-51c293ee278b)
 * "Blockstream controls Bitcoin"
 
 ## Governments
