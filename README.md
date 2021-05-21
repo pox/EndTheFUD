@@ -76,6 +76,7 @@ Links to the best articles debunking common Bitcoin FUD.
   * [How we Know Bitcoin is Not a Bubble](https://nakamotoinstitute.org/mempool/how-we-know-bitcoin-is-not-a-bubble/)
   * [Subjective Theory of Value](https://en.m.wikipedia.org/wiki/Subjective_theory_of_value)
   * [Regresssion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Regression-Fallacy)
+  * [Case Bitcoin: No Intrinsic Value](https://casebitcoin.com/critiques/no-intrinsic-value)
 * "Bitcoin isn't scalable", "Can't process as many payments as Visa"
   * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
 
@@ -134,6 +135,12 @@ Links to the best articles debunking common Bitcoin FUD.
 
 # More Reading
 
+## Other FUD Rebuttal Collections
+
+* [casebitcoin.com - Bitcoin Common Critiques](https://casebitcoin.com/critiques)
+* [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure)
+* [lopp.net - Misconceptions](https://www.lopp.net/bitcoin-information/getting-started.html#misconceptions)
+
 ## Full Guides
 
 * [Why Bitcoin](https://tomerstrolight.medium.com/why-bitcoin-the-series-660fe20ec244)
@@ -144,7 +151,7 @@ Links to the best articles debunking common Bitcoin FUD.
 * Cryptoeconomics: [Book](https://voskuil.org/cryptoeconomics/), [Wiki](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics)
 * [Thank God for Bitcoin](https://www.amazon.com/Thank-God-Bitcoin-Corruption-Redemption/dp/1641991216/ref=sr_1_1?dchild=1&keywords=thank+god+for+bitcoin&qid=1607152012&sr=8-1)
 
-# Writers
+## Writers
 
 * Nic Carter: [Medium](https://medium.com/@nic__carter)
 * Tomer Strolight: [Medium](https://tomerstrolight.medium.com/)
