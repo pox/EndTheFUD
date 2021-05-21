@@ -115,10 +115,6 @@ Links to the best articles debunking common Bitcoin FUD.
 
 ## Governments
 
-* "Governments decide what counts as money"
-  * [Shelling Out](https://nakamotoinstitute.org/shelling-out/)
-  * [The Bitcoin Standard (chapters 1-3)](https://saifedean.com/book/)
-  * [The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/)
 * "Governments can ban Bitcoin"
   * [Bitcoin Cannot Be Banned](https://nakamotoinstitute.org/mempool/bitcoin-cannot-be-banned/)
   * [Speculative Attack](https://nakamotoinstitute.org/mempool/speculative-attack/)
@@ -139,7 +135,12 @@ Links to the best articles debunking common Bitcoin FUD.
   * [Are Chinese Miners a Threat to Bitcoin?](https://blog.lopp.net/are-chinese-miners-threat-bitcoin/)
 * "Governments will create their own crypto coin and force it on people"
   * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#central-bank-digital-currencies)
- 
+* "Governments decide what counts as money"
+  * [Shelling Out](https://nakamotoinstitute.org/shelling-out/)
+  * [The Bitcoin Standard (chapters 1-3)](https://saifedean.com/book/)
+  * [The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/)
+
+
 ## Tech
 
 * "Quantum computing breaks Bitcoin"
