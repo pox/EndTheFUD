@@ -64,6 +64,7 @@ Links to the best articles debunking common Bitcoin FUD.
 * "Bitcoin was not fairly distributed", "Bitcoin increases inequality"
   * [In support of the proof of work [un]fair launch](https://medium.com/@nic__carter/in-support-of-the-proof-of-work-un-fair-launch-cd6e8f06358f)
   * [ASIC Resistance is Nothing but a Blockchain Buzzword](https://medium.com/hackernoon/asic-resistance-is-nothing-but-a-blockchain-buzzword-b91d3d770366)
+  * [Bitcoin's Distribution Was Fair](https://danhedl.medium.com/bitcoins-distribution-was-fair-e2ef7bbbc892)
 
 
 ## As Money
