@@ -4,11 +4,6 @@ Links to the best articles debunking common Bitcoin FUD.
 
 ## Energy & The Environment
 
-* "Uses more energy than Visa per transaction"
-  * [The Bitcoin vs Visa Electricity Consumption Fallacy](https://hackernoon.com/the-bitcoin-vs-visa-electricity-consumption-fallacy-8cf194987a50)
-  * [On Bitcoin, the Gray Lady Embraces Climate Lysenkoism](https://medium.com/@nic__carter/on-bitcoin-the-gray-lady-embraces-climate-lysenkoism-a2d31e465ec0)
-  * [What Bloomberg Gets Wrong About Bitcoin’s Climate Footprint](https://www.coindesk.com/what-bloomberg-gets-wrong-about-bitcoins-climate-footprint)
-  * [The Frustrating, Maddening, All-Consuming Bitcoin Energy Debate](https://www.coindesk.com/frustrating-maddening-all-consuming-bitcoin-energy-debate)
 * "Bitcoin wastes energy"
   * [On Bitcoin's Energy Consumption](https://docsend.com/view/adwmdeeyfvqwecj2)
   * [Three Myths about Bitcoin’s Energy Consumption](https://blog.trezor.io/three-myths-about-bitcoins-energy-consumption-ef613a1f3d5)
@@ -22,6 +17,11 @@ Links to the best articles debunking common Bitcoin FUD.
   * [The Bitcoin Mining Network: Trends, Average Creation Costs, Electricity Consumption & Sources](https://coinshares.com/research/bitcoin-mining-network-december-2019)
   * "Bitcoin might exhaust all energy available to people"
     * [Energy Exhaustion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Exhaustion-Fallacy)
+* "Uses more energy than Visa per transaction"
+  * [The Bitcoin vs Visa Electricity Consumption Fallacy](https://hackernoon.com/the-bitcoin-vs-visa-electricity-consumption-fallacy-8cf194987a50)
+  * [On Bitcoin, the Gray Lady Embraces Climate Lysenkoism](https://medium.com/@nic__carter/on-bitcoin-the-gray-lady-embraces-climate-lysenkoism-a2d31e465ec0)
+  * [What Bloomberg Gets Wrong About Bitcoin’s Climate Footprint](https://www.coindesk.com/what-bloomberg-gets-wrong-about-bitcoins-climate-footprint)
+  * [The Frustrating, Maddening, All-Consuming Bitcoin Energy Debate](https://www.coindesk.com/frustrating-maddening-all-consuming-bitcoin-energy-debate)
 * "Uses dirty, non-renewable energy"
   * [Noahbjectivity on Bitcoin Mining](https://medium.com/@nic__carter/noahbjectivity-on-bitcoin-mining-2052226310cb)
   * [Jack Dorsey Says Bitcoin Can Make the World Greener. Could He Be Right?](https://nymag.com/intelligencer/2021/05/jack-dorsey-says-bitcoin-is-climate-friendly-is-he-right.html)
