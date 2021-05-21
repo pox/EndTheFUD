@@ -17,6 +17,7 @@ Links to the best articles debunking common Bitcoin FUD.
   * [Energy Waste Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Waste-Fallacy)
   * [The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption)
   * [How Much Energy Does Bitcoin Actually Consume?](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume)
+  * [Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
   * "Bitcoin might exhaust all energy available to people"
     * [Energy Exhaustion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Exhaustion-Fallacy)
 * "Uses dirty, non-renewable energy"
@@ -42,7 +43,9 @@ Links to the best articles debunking common Bitcoin FUD.
     * [An Economic Analysis of Ethereum](https://www.lynalden.com/ethereum-analysis/)
     * [Ethereum is Doomed](https://nakamotoinstitute.org/mempool/ethereum-is-doomed/)
   * [Pre-Bitcoin Literature @ Satoshi Nakamoto Institute](https://nakamotoinstitute.org/literature/)
+  * [Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
 * "Bitcoin developers can increase its inflation"
+  * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#scarcity-can-be-changed)
 * "The 21 million BTC supply cap means nothing because anyone can fork Bitcoin"
 * [Shitcoin Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Shitcoin-Definition)
 
@@ -53,6 +56,7 @@ Links to the best articles debunking common Bitcoin FUD.
   * [Bitcoin: Addressing the Ponzi Scheme Characterization](https://www.lynalden.com/bitcoin-ponzi-scheme/)
 * "Bitcoin is for Criminals"
   * [Bitcoin is Not for Criminals](https://nakamotoinstitute.org/mempool/bitcoin-is-not-for-criminals/)
+  * [Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
 * "Bitcoin was not fairly distributed", "Bitcoin increases inequality"
   * [In support of the proof of work [un]fair launch](https://medium.com/@nic__carter/in-support-of-the-proof-of-work-un-fair-launch-cd6e8f06358f)
   * [ASIC Resistance is Nothing but a Blockchain Buzzword](https://medium.com/hackernoon/asic-resistance-is-nothing-but-a-blockchain-buzzword-b91d3d770366)
@@ -62,6 +66,7 @@ Links to the best articles debunking common Bitcoin FUD.
 
 * [Bitcoin is Not Too Volatile](https://nakamotoinstitute.org/mempool/bitcoin-is-not-too-volatile/)
   * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
+  * [Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
 * "Bitcoin is a bad medium-of-exchange"
   * [The Bullish Case for Bitcoin](https://nakamotoinstitute.org/mempool/the-bullish-case-for-bitcoin/)
 * "Bitcoin has no value", "Bitcoin is a bubble"
@@ -92,7 +97,7 @@ Links to the best articles debunking common Bitcoin FUD.
 * "Miners control Bitcoin"
   * [Bitcoin Miners Beware: Invalid Blocks Need Not Apply](https://medium.com/hackernoon/bitcoin-miners-beware-invalid-blocks-need-not-apply-51c293ee278b)
   * [ASIC Monopoly Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/ASIC-Monopoly-Fallacy)
-* "Blockstream controls Bitcoin"
+  * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#miners-are-centralized-and)
 
 ## Governments
 
@@ -105,11 +110,13 @@ Links to the best articles debunking common Bitcoin FUD.
   * [Speculative Attack](https://nakamotoinstitute.org/mempool/speculative-attack/)
   * [A Most Peaceful Revoluion](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)
   * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
+  * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#governments-will-stop)
 * "Governments can attack the Bitcoin network"
   * [Bitcoin: Fee-Based Security Modeling](https://www.lynalden.com/bitcoin-security-modeling/)
   * [Bitcoin is Antifragile](https://unchained-capital.com/blog/bitcoin-is-antifragile/)
 * "Bitcoin is not backed by anything"
   * [Bitcoin is Not Backed by Nothing](https://nakamotoinstitute.org/mempool/bitcoin-is-not-backed-by-nothing/)
+  * [Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
 * "Bitcoin is mined/controlled by China"
   * [BetterHash: Decentralizing Bitcoin Mining With New Hashing Protocols](https://medium.com/hackernoon/betterhash-decentralizing-bitcoin-mining-with-new-hashing-protocols-291de178e3e0)
 * "Governments will create their own crypto coin and force it on people"
@@ -119,6 +126,8 @@ Links to the best articles debunking common Bitcoin FUD.
 * "Quantum computing breaks Bitcoin"
   * [What effects would a scalable Quantum Computer have on Bitcoin?](https://bitcoin.stackexchange.com/questions/6062/what-effects-would-a-scalable-quantum-computer-have-on-bitcoin)
   * [Quantum attacks on Bitcoin, and how to protect against them](https://arxiv.org/abs/1710.10377)
+  * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#quantum-computing-will-break)
+* "[Block rewards will stop in the future and Bitcoin will lose all security](https://safehodl.github.io/failure/#block-rewards-will-stop)"
 
 # More Reading
 
