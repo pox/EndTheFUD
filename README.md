@@ -29,6 +29,7 @@ The best links to short articles debunking the most common Bitcoin FUD.
 * "Bitcoin is for Criminals]
   * [Bitcoin is Not for Criminals](https://nakamotoinstitute.org/mempool/bitcoin-is-not-for-criminals/)
 * "Bitcoin was not fairly distributed", "Bitcoin increases inequality"
+  * [In support of the proof of work [un]fair launch](https://medium.com/@nic__carter/in-support-of-the-proof-of-work-un-fair-launch-cd6e8f06358f)
 
 
 ## As Money
@@ -66,6 +67,7 @@ The best links to short articles debunking the most common Bitcoin FUD.
 * "Governments can ban Bitcoin"
   * [Bitcoin Cannot Be Banned](https://nakamotoinstitute.org/mempool/bitcoin-cannot-be-banned/)
   * [Speculative Attack](https://nakamotoinstitute.org/mempool/speculative-attack/)
+  * [A Most Peaceful Revoluion](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)
 * "Bitcoin is not backed by anything"
   * [Bitcoin is Not Backed by Nothing](https://nakamotoinstitute.org/mempool/bitcoin-is-not-backed-by-nothing/)
  
