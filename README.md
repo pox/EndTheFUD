@@ -36,12 +36,20 @@ The best links to short articles debunking the most common Bitcoin FUD.
 * [Bitcoin is Not Too Volatile](https://nakamotoinstitute.org/mempool/bitcoin-is-not-too-volatile/)
 * "Bitcoin is a bad medium-of-exchange"
   * [The Bullish Case for Bitcoin](https://nakamotoinstitute.org/mempool/the-bullish-case-for-bitcoin/)
+* "Bitcoin has no value"
+  * [Value Proposition](https://github.com/libbitcoin/libbitcoin-system/wiki/Value-Proposition)
+
+## Price
+
+* [How we Know Bitcoin is Not a Bubble](https://nakamotoinstitute.org/mempool/how-we-know-bitcoin-is-not-a-bubble/)
  
 
 ## Inflation
 
 * "Some inflation is good for the economy"
   * [Bitcoin is The Great Definancialization](https://nakamotoinstitute.org/mempool/bitcoin-is-the-great-definancialization/)
+* "Without inflation there won't be enough money for everybody"
+  * [Human Action: Inflation and Deflation](https://mises.org/library/inflation-and-deflation)
 * [The Bitcoin Central Bank's Perfect Monetary Policy](https://nakamotoinstitute.org/mempool/the-bitcoin-central-banks-perfect-monetary-policy/)
 
 ## Proof-of-Stake
