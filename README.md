@@ -18,20 +18,31 @@ The best links to short articles debunking the most common Bitcoin FUD.
   * [Bitcoin is Not Too Slow](https://nakamotoinstitute.org/mempool/bitcoin-is-not-too-slow/)
 * [Bitcoin Can't Be Copied](https://nakamotoinstitute.org/mempool/bitcoin-cant-be-copied/)
 * [Bitcoin, Not Blockchain](https://nakamotoinstitute.org/mempool/bitcoin-not-blockchain/)
+* "Bitcoin will be replaced by some other coin", "Bitcoin is the MySpace of crypto"
+  * [Bitcoin Obsoletes All Other Money](https://nakamotoinstitute.org/mempool/bitcoin-obsoletes-all-other-money/)
+  * [Ethereum is Doomed](https://nakamotoinstitute.org/mempool/ethereum-is-doomed/)
 
 ## Scam
 
 * "Bitcon is a Ponzi/pyramid scheme"
   * [Bitcoin is not a Pyramid Scheme](https://nakamotoinstitute.org/mempool/bitcoin-is-not-a-pyramid-scheme/)
+* "Bitcoin is for Criminals]
+  * [Bitcoin is Not for Criminals](https://nakamotoinstitute.org/mempool/bitcoin-is-not-for-criminals/)
+* "Bitcoin was not fairly distributed", "Bitcoin increases inequality"
 
 
 ## As Money
 
 * [Bitcoin is Not Too Volatile](https://nakamotoinstitute.org/mempool/bitcoin-is-not-too-volatile/)
+* "Bitcoin is a bad medium-of-exchange"
+  * [The Bullish Case for Bitcoin](https://nakamotoinstitute.org/mempool/the-bullish-case-for-bitcoin/)
+ 
 
 ## Inflation
 
 * "Some inflation is good for the economy"
+  * [Bitcoin is The Great Definancialization](https://nakamotoinstitute.org/mempool/bitcoin-is-the-great-definancialization/)
+* [The Bitcoin Central Bank's Perfect Monetary Policy](https://nakamotoinstitute.org/mempool/the-bitcoin-central-banks-perfect-monetary-policy/)
 
 ## Proof-of-Stake
 
@@ -46,6 +57,7 @@ The best links to short articles debunking the most common Bitcoin FUD.
   * [The Bitcoin Standard (chapters 1-3)](https://saifedean.com/book/)
 * "Governments can ban Bitcoin"
   * [Bitcoin Cannot Be Banned](https://nakamotoinstitute.org/mempool/bitcoin-cannot-be-banned/)
+  * [Speculative Attack](https://nakamotoinstitute.org/mempool/speculative-attack/)
 * "Bitcoin is not backed by anything"
   * [Bitcoin is Not Backed by Nothing](https://nakamotoinstitute.org/mempool/bitcoin-is-not-backed-by-nothing/)
  
