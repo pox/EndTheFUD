@@ -106,6 +106,7 @@
 * [Nothing is Cheaper than Proof of Work](https://www.truthcoin.info/blog/pow-cheapest/)
 * [On Stake and Consensus](https://download.wpsoftware.net/bitcoin/pos.pdf)
 * [Long Live Proof-of-Work, Long Live Mining](https://www.truthcoin.info/blog/pow-and-mining)
+* [Proof-of-Stake & the Wrong Engineering Mindset](https://hugonguyen.medium.com/proof-of-stake-the-wrong-engineering-mindset-15e641ab65a2)
 
 ## Control over Bitcoin
 
