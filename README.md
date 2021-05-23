@@ -1,4 +1,4 @@
-# Topics
+# End The FUD
 ## Energy
 
 * "Bitcoin wastes energy"
