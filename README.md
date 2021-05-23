@@ -1,4 +1,4 @@
-# End The FUD
+# End The [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt)
 ## Energy
 
 * "Bitcoin wastes energy"
