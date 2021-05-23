@@ -1,4 +1,5 @@
-# Energy & The Environment
+# Topics
+## Energy & The Environment
 
 * "Bitcoin wastes energy"
   * [On Bitcoin's Energy Consumption](https://docsend.com/view/adwmdeeyfvqwecj2)
@@ -25,7 +26,7 @@
 * Emissions & Comparison with Gold Mining: [Yellow Rock Bad, Orange Coin Good: Environmental & Social Impacts of Gold & Bitcoin](https://youtu.be/ns_I2LpeAbQ?t=26084)
 * [Bitcoin's Energy Consumption - A shift in perspective](https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/)
 
-# Altcoins
+## Altcoins
 
 * [Why Bitcoin’s Imitators Are Scams](https://tomerstrolight.medium.com/why-bitcoins-imitators-are-scams-e38fab4c78ba)
 * "Coin X is faster than Bitcoin"
@@ -50,7 +51,7 @@
   * [Bitcoin Can Be Cloned](https://casebitcoin.com/critiques/bitcoin-can-be-cloned)
 * [Shitcoin Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Shitcoin-Definition)
 
-# Justice
+## Justice
 
 * "Bitcon is a Ponzi/pyramid scheme"
   * [Bitcoin is not a Pyramid Scheme](https://nakamotoinstitute.org/mempool/bitcoin-is-not-a-pyramid-scheme/)
@@ -65,7 +66,7 @@
   * [Bitcoin's Distribution Was Fair](https://danhedl.medium.com/bitcoins-distribution-was-fair-e2ef7bbbc892)
 
 
-# As Money
+## As Money
 
 * [Bitcoin is Not Too Volatile](https://nakamotoinstitute.org/mempool/bitcoin-is-not-too-volatile/)
   * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
@@ -86,7 +87,7 @@
   * ["Bitcoin is Being Pumped by Tether"](https://casebitcoin.com/critiques/bitcoin-is-pumped-by-tether)
   * [Don't Fear Tether](https://danheld.substack.com/p/dont-fear-tether)
 
-# Inflation
+## Inflation
 
 * "Some inflation is good for the economy"
   * [Bitcoin is The Great Definancialization](https://nakamotoinstitute.org/mempool/bitcoin-is-the-great-definancialization/)
@@ -95,20 +96,20 @@
   * [Human Action: Inflation and Deflation](https://mises.org/library/inflation-and-deflation)
 * [The Bitcoin Central Bank's Perfect Monetary Policy](https://nakamotoinstitute.org/mempool/the-bitcoin-central-banks-perfect-monetary-policy/)
 
-# Proof-of-Work vs. Proof-of-Stake
+## Proof-of-Work vs. Proof-of-Stake
 
 * [What's Wrong with Proof of Stake?](https://medium.com/@BobMcElrath/whats-wrong-with-proof-of-stake-77d4f370be15)
 * [Proof-of-Stake Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Stake-Fallacy)
 * [Nothing is Cheaper than Proof of Work](https://www.truthcoin.info/blog/pow-cheapest/)
 
-# Control over Bitcoin
+## Control over Bitcoin
 
 * "Miners control Bitcoin"
   * [Bitcoin Miners Beware: Invalid Blocks Need Not Apply](https://medium.com/hackernoon/bitcoin-miners-beware-invalid-blocks-need-not-apply-51c293ee278b)
   * [ASIC Monopoly Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/ASIC-Monopoly-Fallacy)
   * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#miners-are-centralized-and)
 
-# Governments
+## Governments
 
 * "Governments can ban Bitcoin"
   * [Bitcoin Cannot Be Banned](https://nakamotoinstitute.org/mempool/bitcoin-cannot-be-banned/)
@@ -135,7 +136,7 @@
   * [The Bitcoin Standard (chapters 1-3)](https://saifedean.com/book/)
   * [The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/)
 
-# Tech
+## Tech
 
 * "Quantum computing breaks Bitcoin"
   * [What effects would a scalable Quantum Computer have on Bitcoin?](https://bitcoin.stackexchange.com/questions/6062/what-effects-would-a-scalable-quantum-computer-have-on-bitcoin)
