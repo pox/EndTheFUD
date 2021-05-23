@@ -37,7 +37,7 @@
   * See [Justice](#justice)
 * [Bitcoin Can't Be Copied](https://nakamotoinstitute.org/mempool/bitcoin-cant-be-copied/)
 * [Bitcoin, Not Blockchain](https://nakamotoinstitute.org/mempool/bitcoin-not-blockchain/)
-* "Bitcoin will be replaced by some other coin", "Bitcoin is the MySpace of crypto"
+* "Bitcoin is MySpace"
   * [Bitcoin Obsoletes All Other Money](https://nakamotoinstitute.org/mempool/bitcoin-obsoletes-all-other-money/)
   * [Analyzing Bitcoin's Network Effect](https://www.lynalden.com/bitcoins-network-effect/)
   * Ethereum
