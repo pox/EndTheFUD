@@ -1,5 +1,5 @@
 # Topics
-## Energy & The Environment
+## Energy
 
 * "Bitcoin wastes energy"
   * [On Bitcoin's Energy Consumption](https://docsend.com/view/adwmdeeyfvqwecj2)
