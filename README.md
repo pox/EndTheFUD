@@ -12,6 +12,7 @@
   * [Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
   * [Common Critiques #4: Bitcoin Wastes Energy](https://casebitcoin.com/critiques/bitcoin-wastes-energy)
   * [The Bitcoin Mining Network: Trends, Average Creation Costs, Electricity Consumption & Sources](https://coinshares.com/research/bitcoin-mining-network-december-2019)
+  * [PoW is Efficient](https://danhedl.medium.com/pow-is-efficient-aa3d442754d3)
   * "Bitcoin might exhaust all energy available to people"
     * [Energy Exhaustion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Exhaustion-Fallacy)
 * "Uses more energy than Visa per transaction"
