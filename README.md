@@ -97,7 +97,7 @@
   * [Human Action: Inflation and Deflation](https://mises.org/library/inflation-and-deflation)
 * [The Bitcoin Central Bank's Perfect Monetary Policy](https://nakamotoinstitute.org/mempool/the-bitcoin-central-banks-perfect-monetary-policy/)
 
-## Proof-of-Work vs. Proof-of-Stake
+## PoW vs. PoS
 
 * [What's Wrong with Proof of Stake?](https://medium.com/@BobMcElrath/whats-wrong-with-proof-of-stake-77d4f370be15)
 * [Proof-of-Stake Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Stake-Fallacy)
