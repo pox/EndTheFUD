@@ -103,6 +103,7 @@
 * [What's Wrong with Proof of Stake?](https://medium.com/@BobMcElrath/whats-wrong-with-proof-of-stake-77d4f370be15)
 * [Proof-of-Stake Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Stake-Fallacy)
 * [Nothing is Cheaper than Proof of Work](https://www.truthcoin.info/blog/pow-cheapest/)
+* [On Stake and Consensus](https://download.wpsoftware.net/bitcoin/pos.pdf)
 
 ## Control over Bitcoin
 
