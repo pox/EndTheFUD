@@ -105,6 +105,7 @@
 * [Proof-of-Stake Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Stake-Fallacy)
 * [Nothing is Cheaper than Proof of Work](https://www.truthcoin.info/blog/pow-cheapest/)
 * [On Stake and Consensus](https://download.wpsoftware.net/bitcoin/pos.pdf)
+* [Long Live Proof-of-Work, Long Live Mining](https://www.truthcoin.info/blog/pow-and-mining)
 
 ## Control over Bitcoin
 
