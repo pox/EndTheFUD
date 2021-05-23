@@ -108,6 +108,7 @@
 * [Long Live Proof-of-Work, Long Live Mining](https://www.truthcoin.info/blog/pow-and-mining)
 * [Proof-of-Stake & the Wrong Engineering Mindset](https://hugonguyen.medium.com/proof-of-stake-the-wrong-engineering-mindset-15e641ab65a2)
 * [Work is Timeless, Stake is Not](https://hugonguyen.medium.com/work-is-timeless-stake-is-not-554c4450ce18)
+* [Centralization of Stake in PoS](https://medium.com/stakin/centralization-of-stake-in-pos-f7ccb8f8254)
 
 ## Control over Bitcoin
 
