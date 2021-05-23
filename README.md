@@ -69,12 +69,13 @@
 
 ## As Money
 
-* [Bitcoin is Not Too Volatile](https://nakamotoinstitute.org/mempool/bitcoin-is-not-too-volatile/)
+* "Too Volatile"
+  * [Bitcoin is Not Too Volatile](https://nakamotoinstitute.org/mempool/bitcoin-is-not-too-volatile/)
   * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
   * [Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
 * "Bitcoin is a bad medium-of-exchange"
   * [The Bullish Case for Bitcoin](https://nakamotoinstitute.org/mempool/the-bullish-case-for-bitcoin/)
-* "Bitcoin has no value", "Bitcoin is a bubble"
+* "No intrinsic value", "Bitcoin is a bubble"
   * [Value Proposition](https://github.com/libbitcoin/libbitcoin-system/wiki/Value-Proposition)
   * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
   * [How we Know Bitcoin is Not a Bubble](https://nakamotoinstitute.org/mempool/how-we-know-bitcoin-is-not-a-bubble/)
