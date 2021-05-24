@@ -26,6 +26,7 @@
   * [Jack Dorsey Says Bitcoin Can Make the World Greener. Could He Be Right?](https://nymag.com/intelligencer/2021/05/jack-dorsey-says-bitcoin-is-climate-friendly-is-he-right.html)
   * [Beware of Lazy Research: Let’s Talk Electricity Waste & How Bitcoin Mining Can Power A Renewable Energy Renaissance](https://medium.com/coinshares/beware-of-lazy-research-c828c900b7d5)
   * [Comparing Bitcoin’s Environmental Impact…](https://hassmccook.medium.com/comparing-bitcoins-environmental-impact-f56b18014f64)
+  * [Addressing Concerns About Bitcoin’s Electricity Use](https://mdotbit.medium.com/addressing-concerns-about-bitcoins-electricity-use-378e0de4af42)
 * Bitcoin vs. Gold mining
   * [Yellow Rock Bad, Orange Coin Good: Environmental & Social Impacts of Gold & Bitcoin](https://youtu.be/ns_I2LpeAbQ?t=26084)
 * [Bitcoin's Energy Consumption - A shift in perspective](https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/)
