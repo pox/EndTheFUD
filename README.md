@@ -129,6 +129,7 @@
   * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#miners-are-centralized-and)
   * [Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core-/)
 * "Satoshi might come back and crash Bitcoin"
+* [Measuring Decentralization](https://www.truthcoin.info/blog/measuring-decentralization/)
 
 ## Governments
 
