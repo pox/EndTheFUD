@@ -124,8 +124,10 @@
 
 * "Miners control Bitcoin"
   * [Bitcoin Miners Beware: Invalid Blocks Need Not Apply](https://medium.com/hackernoon/bitcoin-miners-beware-invalid-blocks-need-not-apply-51c293ee278b)
-  * [ASIC Monopoly Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/ASIC-Monopoly-Fallacy)
+  * [ASIC Monopoly Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/ASIC-Monopoly-Fallacy)https://blog.lopp.net/are-chinese-miners-threat-bitcoin/
+  * [Are Chinese Miners a Threat to Bitcoin](https://blog.lopp.net/are-chinese-miners-threat-bitcoin/)
   * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#miners-are-centralized-and)
+  * [Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core-/)
 * "Satoshi might come back and crash Bitcoin"
 
 ## Governments
