@@ -21,6 +21,7 @@
   * [What Bloomberg Gets Wrong About Bitcoin’s Climate Footprint](https://www.coindesk.com/what-bloomberg-gets-wrong-about-bitcoins-climate-footprint)
   * [The Frustrating, Maddening, All-Consuming Bitcoin Energy Debate](https://www.coindesk.com/frustrating-maddening-all-consuming-bitcoin-energy-debate)
 * "Uses dirty, non-renewable energy"
+  * [Bitcoin Is The First Global Market For Electricity And Will Unleash Renewables](https://www.citadel21.com/bitcoin-is-the-first-global-market-for-electricity-and-will-unleash-renewables)
   * [Noahbjectivity on Bitcoin Mining](https://medium.com/@nic__carter/noahbjectivity-on-bitcoin-mining-2052226310cb)
   * [Jack Dorsey Says Bitcoin Can Make the World Greener. Could He Be Right?](https://nymag.com/intelligencer/2021/05/jack-dorsey-says-bitcoin-is-climate-friendly-is-he-right.html)
   * [Beware of Lazy Research: Let’s Talk Electricity Waste & How Bitcoin Mining Can Power A Renewable Energy Renaissance](https://medium.com/coinshares/beware-of-lazy-research-c828c900b7d5)
