@@ -126,6 +126,8 @@
   * [Bitcoin Miners Beware: Invalid Blocks Need Not Apply](https://medium.com/hackernoon/bitcoin-miners-beware-invalid-blocks-need-not-apply-51c293ee278b)
   * [ASIC Monopoly Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/ASIC-Monopoly-Fallacy)
   * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#miners-are-centralized-and)
+  * [What is Crypto Decentralization and Why Bitcoin Stands Alone](https://tonevays.com/blog/what-is-crypto-decentralization-and-why-bitcoin-stands-alone) 
+
 * "Satoshi might come back and crash Bitcoin"
 
 ## Governments
@@ -195,6 +197,8 @@
 * [Gigi](https://dergigi.com/bitcoin/)
 * Hugo Nguyen: [Medium](https://hugonguyen.medium.com/)
 * Knut Svanholm: [Medium](https://medium.com/@knut.svanholm)
+* [Tone Vays](https://tonevays.com/)
+
 
 # Contributing
 
