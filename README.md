@@ -13,6 +13,9 @@
   * [Common Critiques #4: Bitcoin Wastes Energy](https://casebitcoin.com/critiques/bitcoin-wastes-energy)
   * [The Bitcoin Mining Network: Trends, Average Creation Costs, Electricity Consumption & Sources](https://coinshares.com/research/bitcoin-mining-network-december-2019)
   * [PoW is Efficient](https://danhedl.medium.com/pow-is-efficient-aa3d442754d3)
+  * [Bitcoin Miners Consume A Reasonable Amount of Energy — And It's All Worth It](https://bitcoinmagazine.com/business/op-ed-bitcoin-miners-consume-reasonable-amount-energy-and-its-all-worth-it)
+  * [Bitcoin Mining Wastes Energy? What If That’s Good?](https://www.coindesk.com/bitcoin-mining-wastes-energy-thats-good-thing)
+  * [Bitcoin: A Bold American Future](https://journal.bitcoinreserve.com/bitcoin-a-bold-american-future/)
   * "Bitcoin might exhaust all energy available to people"
     * [Energy Exhaustion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Exhaustion-Fallacy)
 * "Uses more energy than Visa per transaction"
@@ -20,12 +23,16 @@
   * [On Bitcoin, the Gray Lady Embraces Climate Lysenkoism](https://medium.com/@nic__carter/on-bitcoin-the-gray-lady-embraces-climate-lysenkoism-a2d31e465ec0)
   * [What Bloomberg Gets Wrong About Bitcoin’s Climate Footprint](https://www.coindesk.com/what-bloomberg-gets-wrong-about-bitcoins-climate-footprint)
   * [The Frustrating, Maddening, All-Consuming Bitcoin Energy Debate](https://www.coindesk.com/frustrating-maddening-all-consuming-bitcoin-energy-debate)
+  * [Uncovering The Hidden Costs Of The Petrodollar](https://bitcoinmagazine.com/culture/the-hidden-costs-of-the-petrodollar)
+  * [Carbon Footprint differences: BTC vs Banks](https://medium.com/@mukeat/carbon-footprint-differences-btc-vsbanks-a5f8f0b844d0)
 * "Uses dirty, non-renewable energy"
   * [Bitcoin Is The First Global Market For Electricity And Will Unleash Renewables](https://www.citadel21.com/bitcoin-is-the-first-global-market-for-electricity-and-will-unleash-renewables)
   * [Noahbjectivity on Bitcoin Mining](https://medium.com/@nic__carter/noahbjectivity-on-bitcoin-mining-2052226310cb)
+  * [Green energy and Bitcoin](https://medium.com/hackernoon/green-energy-and-bitcoin-eb7961f38382)
   * [Jack Dorsey Says Bitcoin Can Make the World Greener. Could He Be Right?](https://nymag.com/intelligencer/2021/05/jack-dorsey-says-bitcoin-is-climate-friendly-is-he-right.html)
   * [Beware of Lazy Research: Let’s Talk Electricity Waste & How Bitcoin Mining Can Power A Renewable Energy Renaissance](https://medium.com/coinshares/beware-of-lazy-research-c828c900b7d5)
   * [Addressing Concerns About Bitcoin’s Electricity Use](https://mdotbit.medium.com/addressing-concerns-about-bitcoins-electricity-use-378e0de4af42)
+  * [How Bitcoin could drive the clean energy revolution](https://www.coincenter.org/how-bitcoin-could-drive-the-clean-energy-revolution/)
 * Bitcoin vs. Gold mining
   * [Yellow Rock Bad, Orange Coin Good: Environmental & Social Impacts of Gold & Bitcoin](https://youtu.be/ns_I2LpeAbQ?t=26084)
   * [Comparing Bitcoin’s Environmental Impact…](https://hassmccook.medium.com/comparing-bitcoins-environmental-impact-f56b18014f64)
@@ -187,6 +194,7 @@
 * Parker Lewis: [Blog](https://unchained-capital.com/blog/author/plewis/)
 * [Gigi](https://dergigi.com/bitcoin/)
 * Hugo Nguyen: [Medium](https://hugonguyen.medium.com/)
+* Knut Svanholm: [Medium](https://medium.com/@knut.svanholm)
 
 # Contributing
 
