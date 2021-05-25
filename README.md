@@ -16,6 +16,7 @@
   * [Bitcoin Miners Consume A Reasonable Amount of Energy — And It's All Worth It](https://bitcoinmagazine.com/business/op-ed-bitcoin-miners-consume-reasonable-amount-energy-and-its-all-worth-it)
   * [Bitcoin Mining Wastes Energy? What If That’s Good?](https://www.coindesk.com/bitcoin-mining-wastes-energy-thats-good-thing)
   * [Bitcoin: A Bold American Future](https://journal.bitcoinreserve.com/bitcoin-a-bold-american-future/)
+  * [ASIC Chip Technology is Renewable Energy’s Future](https://www.theblockcrypto.com/post/11481/asic-chip-technology-is-renewable-energys-future)
   * "Bitcoin might exhaust all energy available to people"
     * [Energy Exhaustion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Exhaustion-Fallacy)
 * "Uses more energy than Visa per transaction"
