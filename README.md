@@ -127,6 +127,7 @@
   * [ASIC Monopoly Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/ASIC-Monopoly-Fallacy)
   * [Are Chinese Miners a Threat to Bitcoin](https://blog.lopp.net/are-chinese-miners-threat-bitcoin/)
   * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#miners-are-centralized-and)
+  * [What is Crypto Decentralization and Why Bitcoin Stands Alone](https://tonevays.com/blog/what-is-crypto-decentralization-and-why-bitcoin-stands-alone) 
   * [Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core-/)
 * "Satoshi might come back and crash Bitcoin"
 * [Measuring Decentralization](https://www.truthcoin.info/blog/measuring-decentralization/)
@@ -198,6 +199,8 @@
 * [Gigi](https://dergigi.com/bitcoin/)
 * Hugo Nguyen: [Medium](https://hugonguyen.medium.com/)
 * Knut Svanholm: [Medium](https://medium.com/@knut.svanholm)
+* [Tone Vays](https://tonevays.com/)
+
 
 # Contributing
 
