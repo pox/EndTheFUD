@@ -8,6 +8,7 @@
   * [Natural gas venting: How Bitcoin solved a 160 year old problem.](https://www.upstreamdata.ca/post/natural-gas-venting-how-bitcoin-solved-a-160-year-old-problem)
   * [Bitcoin Does Not Waste Energy](https://nakamotoinstitute.org/mempool/bitcoin-does-not-waste-energy/)
   * [Energy Waste Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Waste-Fallacy)
+  * [https://bitcoinandenergy.medium.com/bitcoin-mining-and-the-case-for-more-energy-90094ce25fac](https://bitcoinandenergy.medium.com/bitcoin-mining-and-the-case-for-more-energy-90094ce25fac)
   * [The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption)
   * [Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
   * [Common Critiques #4: Bitcoin Wastes Energy](https://casebitcoin.com/critiques/bitcoin-wastes-energy)
