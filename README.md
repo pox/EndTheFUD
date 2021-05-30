@@ -206,10 +206,6 @@
 
 # Contributing
 
-Please feel free to add and improve by submitting pull-requests.
+Please feel free to [add and improve](https://github.com/pox/EndTheFUD/edit/main/README.md).
 
-Sources should be free (not behind a pay-wall).
-
-It's okay to link the same source more than once if it applies to multiple topics.
-
--- [pox](https://twitter.com/xi27pox)
+Sources should be free, as in not behind a pay-wall.
