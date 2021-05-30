@@ -2,6 +2,7 @@
 ## Energy
 
 * "Bitcoin wastes energy"
+  * [Bitcoin is the energy minimal system for a planetary civilization, ending the climate destruction the US dollar has imposed.](https://astigmatic.substack.com/p/bitcoin-is-the-energy-minimal-system)
   * [How Much Energy Does Bitcoin Actually Consume?](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume)
   * [Three Myths about Bitcoin’s Energy Consumption](https://blog.trezor.io/three-myths-about-bitcoins-energy-consumption-ef613a1f3d5)
   * [On Bitcoin's Energy Consumption](https://docsend.com/view/adwmdeeyfvqwecj2)
