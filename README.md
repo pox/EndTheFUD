@@ -204,6 +204,12 @@
 * Knut Svanholm: [Medium](https://medium.com/@knut.svanholm)
 * [Tone Vays](https://tonevays.com/)
 
+# Sharing
+
+This website has a few short domain aliases for easier sharing.
+
+* [btcco2.org](http://btcco2.org) & [btcco2.com](http://btcco2.com) point to the [Energy](#energy) section.
+* [shitcoin.review](http://shitcoin.review) points to the [Altcoins](#altcoins) section.
 
 # Contributing
 
