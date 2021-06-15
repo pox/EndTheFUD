@@ -39,7 +39,7 @@
   * [Yellow Rock Bad, Orange Coin Good: Environmental & Social Impacts of Gold & Bitcoin](https://youtu.be/ns_I2LpeAbQ?t=26084)
   * [Comparing Bitcoin’s Environmental Impact…](https://hassmccook.medium.com/comparing-bitcoins-environmental-impact-f56b18014f64)
   * [Is Bitcoin an Environmental Disaster?](https://www.pairagraph.com/dialogue/9f0dfc47978740ebb0439efaadf23f41/2)
-  * [Bitcoin Emits less than 2% of The World's Military-Industrial Complex Carbon Emissions](https://bitcoinmagazine.com/culture/bitcoin-vs-world-military-emissions)
+  * [Bitcoin Emits Less Than 2% of The World's Military-Industrial Complex Carbon Emissions](https://bitcoinmagazine.com/culture/bitcoin-vs-world-military-emissions)
 * [Bitcoin's Energy Consumption - A shift in perspective](https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/)
 
 ## Altcoins
