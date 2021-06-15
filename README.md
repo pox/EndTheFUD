@@ -38,6 +38,7 @@
 * Bitcoin vs. Gold mining
   * [Yellow Rock Bad, Orange Coin Good: Environmental & Social Impacts of Gold & Bitcoin](https://youtu.be/ns_I2LpeAbQ?t=26084)
   * [Comparing Bitcoin’s Environmental Impact…](https://hassmccook.medium.com/comparing-bitcoins-environmental-impact-f56b18014f64)
+  * [Is Bitcoin an Environmental Disaster?](https://www.pairagraph.com/dialogue/9f0dfc47978740ebb0439efaadf23f41/2)
 * [Bitcoin's Energy Consumption - A shift in perspective](https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/)
 
 ## Altcoins
@@ -89,6 +90,7 @@
 * "Bitcoin is a bad medium-of-exchange"
   * [The Bullish Case for Bitcoin](https://nakamotoinstitute.org/mempool/the-bullish-case-for-bitcoin/)
 * "No intrinsic value", "Bitcoin is a bubble"
+  * [An (Institutional) Investor’s Take on Cryptoassets](https://s3.eu-west-2.amazonaws.com/john-pfeffer/An+Investor's+Take+on+Cryptoassets+v6.pdf)
   * [Value Proposition](https://github.com/libbitcoin/libbitcoin-system/wiki/Value-Proposition)
   * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
   * [How we Know Bitcoin is Not a Bubble](https://nakamotoinstitute.org/mempool/how-we-know-bitcoin-is-not-a-bubble/)
