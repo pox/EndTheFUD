@@ -90,7 +90,7 @@
 * "Bitcoin is a bad medium-of-exchange"
   * [The Bullish Case for Bitcoin](https://nakamotoinstitute.org/mempool/the-bullish-case-for-bitcoin/)
 * "No intrinsic value", "Bitcoin is a bubble"
-  * [An (Institutional) Investor’s Take on Cryptoassets](https://s3.eu-west-2.amazonaws.com/john-pfeffer/An+Investor's+Take+on+Cryptoassets+v6.pdf)
+  * [An (Institutional) Investor’s Take on Cryptoassets](https://medium.com/john-pfeffer/an-institutional-investors-take-on-cryptoassets-69042115890)
   * [Value Proposition](https://github.com/libbitcoin/libbitcoin-system/wiki/Value-Proposition)
   * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
   * [How we Know Bitcoin is Not a Bubble](https://nakamotoinstitute.org/mempool/how-we-know-bitcoin-is-not-a-bubble/)
