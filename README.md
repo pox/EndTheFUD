@@ -1,5 +1,5 @@
 # End The [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt)
-## [Energy](energy.md)
+## [Energy](energy)
 
 * "Bitcoin wastes energy"
   * [How Much Energy Does Bitcoin Actually Consume?](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume)
