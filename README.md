@@ -42,7 +42,7 @@
   * [Bitcoin Emits Less Than 2% of The World's Military-Industrial Complex Carbon Emissions](https://bitcoinmagazine.com/culture/bitcoin-vs-world-military-emissions)
 * [Bitcoin's Energy Consumption - A shift in perspective](https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/)
 
-## Justice
+## [Justice](justice.md)
 
 * "Bitcon is a Ponzi/pyramid scheme"
   * [Bitcoin is not a Pyramid Scheme](https://nakamotoinstitute.org/mempool/bitcoin-is-not-a-pyramid-scheme/)
@@ -56,7 +56,7 @@
   * [ASIC Resistance is Nothing but a Blockchain Buzzword](https://medium.com/hackernoon/asic-resistance-is-nothing-but-a-blockchain-buzzword-b91d3d770366)
   * [Bitcoin's Distribution Was Fair](https://danhedl.medium.com/bitcoins-distribution-was-fair-e2ef7bbbc892)
 
-## As Money
+## [As Money](money.md)
 
 * "Too Volatile"
   * [Bitcoin is Not Too Volatile](https://nakamotoinstitute.org/mempool/bitcoin-is-not-too-volatile/)
@@ -79,7 +79,7 @@
   * ["Bitcoin is Being Pumped by Tether"](https://casebitcoin.com/critiques/bitcoin-is-pumped-by-tether)
   * [Don't Fear Tether](https://danheld.substack.com/p/dont-fear-tether)
 
-## Inflation
+## [Inflation](inflation.md)
 
 * "Some inflation is good for the economy"
   * [Bitcoin is The Great Definancialization](https://nakamotoinstitute.org/mempool/bitcoin-is-the-great-definancialization/)
