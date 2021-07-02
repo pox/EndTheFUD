@@ -34,6 +34,6 @@
 
 [endthefud.org/governments](https://endthefud.org/governments)
 
-[endthefud.org/banned](https://endthefud.org/banned)
+[endthefud.org/ban](https://endthefud.org/ban)
 
 [endthefud.org/china](https://endthefud.org/china)
