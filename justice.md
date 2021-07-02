@@ -15,10 +15,6 @@
   * [Bitcoin's Distribution Was Fair](https://danhedl.medium.com/bitcoins-distribution-was-fair-e2ef7bbbc892)
 
 
-# Links to this page
+## Links to this page
 
-* [endthefud.org/justice](https://endthefud.org/justice)
-* [endthefud.org/ponzi](https://endthefud.org/ponzi)
-* [endthefud.org/criminals](https://endthefud.org/criminals)
-
-# [More FUD Topics](https://endthefud.org)
+[endthefud.org/justice](https://endthefud.org/justice) [endthefud.org/ponzi](https://endthefud.org/ponzi) [endthefud.org/criminals](https://endthefud.org/criminals)
