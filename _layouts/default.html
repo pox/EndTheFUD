@@ -22,7 +22,7 @@
       </header>
 
       <div id="banner">
-        <a href="/"><span id="logo"></span></a>
+        <span id="logo"></span>
 
         <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
         {% if site.show_downloads %}
@@ -38,11 +38,12 @@
 
     <div class="wrapper">
       <nav>
-        <ul></ul>
+        <ul>
+          <li>Home</li>
+        </ul>
       </nav>
       <section>
         {{ content }}
-
       </section>
       <footer>
         {% if site.github.is_project_page %}
