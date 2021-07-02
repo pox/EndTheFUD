@@ -1,4 +1,4 @@
-# Energy FUD
+# Energy
 
 ## "Bitcoin wastes energy"
 
