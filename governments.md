@@ -17,7 +17,7 @@
   * [Bitcoin is Not Backed by Nothing](https://nakamotoinstitute.org/mempool/bitcoin-is-not-backed-by-nothing/)
   * [Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
 
-## ["Bitcoin is mined/controlled by China"](control)
+## "Bitcoin is mined/controlled by China"
   * [BetterHash: Decentralizing Bitcoin Mining With New Hashing Protocols](https://medium.com/hackernoon/betterhash-decentralizing-bitcoin-mining-with-new-hashing-protocols-291de178e3e0)
   * [Common Bitcoin Critiques: China Controls Bitcoin](https://casebitcoin.com/critiques/china-controls-bitcoin)
   * [Are Chinese Miners a Threat to Bitcoin?](https://blog.lopp.net/are-chinese-miners-threat-bitcoin/)
