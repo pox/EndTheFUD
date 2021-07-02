@@ -42,31 +42,6 @@
   * [Bitcoin Emits Less Than 2% of The World's Military-Industrial Complex Carbon Emissions](https://bitcoinmagazine.com/culture/bitcoin-vs-world-military-emissions)
 * [Bitcoin's Energy Consumption - A shift in perspective](https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/)
 
-## Altcoins
-
-* [Why Bitcoin’s Imitators Are Scams](https://tomerstrolight.medium.com/why-bitcoins-imitators-are-scams-e38fab4c78ba)
-* "Coin X is faster than Bitcoin"
-  * [It’s the settlement assurances, stupid](https://medium.com/@nic__carter/its-the-settlement-assurances-stupid-5dcd1c3f4e41)
-  * [Bitcoin is Not Too Slow](https://nakamotoinstitute.org/mempool/bitcoin-is-not-too-slow/)
-* "Coin X is more fairly distributed than Bitcoin"
-  * See [Justice](#justice)
-* [Bitcoin Can't Be Copied](https://nakamotoinstitute.org/mempool/bitcoin-cant-be-copied/)
-* [Bitcoin, Not Blockchain](https://nakamotoinstitute.org/mempool/bitcoin-not-blockchain/)
-* "Bitcoin is MySpace"
-  * [Bitcoin Obsoletes All Other Money](https://nakamotoinstitute.org/mempool/bitcoin-obsoletes-all-other-money/)
-  * [Analyzing Bitcoin's Network Effect](https://www.lynalden.com/bitcoins-network-effect/)
-  * Ethereum
-    * [An Economic Analysis of Ethereum](https://www.lynalden.com/ethereum-analysis/)
-    * [Ethereum is Doomed](https://nakamotoinstitute.org/mempool/ethereum-is-doomed/)
-  * [Pre-Bitcoin Literature @ Satoshi Nakamoto Institute](https://nakamotoinstitute.org/literature/)
-  * [Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
-* "Bitcoin developers can increase its inflation"
-  * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#scarcity-can-be-changed)
-* "Bitcoin is not scarce because it can be cloned"
-  * [Bitcoin can be forked infinitely which dilutes the value](https://safehodl.github.io/failure/#can-be-forked-infinitely)
-  * [Bitcoin Can Be Cloned](https://casebitcoin.com/critiques/bitcoin-can-be-cloned)
-* [Shitcoin Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Shitcoin-Definition)
-
 ## Justice
 
 * "Bitcon is a Ponzi/pyramid scheme"
@@ -80,7 +55,6 @@
   * [In support of the proof of work [un]fair launch](https://medium.com/@nic__carter/in-support-of-the-proof-of-work-un-fair-launch-cd6e8f06358f)
   * [ASIC Resistance is Nothing but a Blockchain Buzzword](https://medium.com/hackernoon/asic-resistance-is-nothing-but-a-blockchain-buzzword-b91d3d770366)
   * [Bitcoin's Distribution Was Fair](https://danhedl.medium.com/bitcoins-distribution-was-fair-e2ef7bbbc892)
-
 
 ## As Money
 
@@ -164,6 +138,32 @@
   * [Shelling Out](https://nakamotoinstitute.org/shelling-out/)
   * [The Bitcoin Standard (chapters 1-3)](https://saifedean.com/book/)
   * [The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/)
+
+## Altcoins
+
+* [Why Bitcoin’s Imitators Are Scams](https://tomerstrolight.medium.com/why-bitcoins-imitators-are-scams-e38fab4c78ba)
+* "Coin X is faster than Bitcoin"
+  * [It’s the settlement assurances, stupid](https://medium.com/@nic__carter/its-the-settlement-assurances-stupid-5dcd1c3f4e41)
+  * [Bitcoin is Not Too Slow](https://nakamotoinstitute.org/mempool/bitcoin-is-not-too-slow/)
+* "Coin X is more fairly distributed than Bitcoin"
+  * See [Justice](#justice)
+* [Bitcoin Can't Be Copied](https://nakamotoinstitute.org/mempool/bitcoin-cant-be-copied/)
+* [Bitcoin, Not Blockchain](https://nakamotoinstitute.org/mempool/bitcoin-not-blockchain/)
+* "Bitcoin is MySpace"
+  * [Bitcoin Obsoletes All Other Money](https://nakamotoinstitute.org/mempool/bitcoin-obsoletes-all-other-money/)
+  * [Analyzing Bitcoin's Network Effect](https://www.lynalden.com/bitcoins-network-effect/)
+  * Ethereum
+    * [An Economic Analysis of Ethereum](https://www.lynalden.com/ethereum-analysis/)
+    * [Ethereum is Doomed](https://nakamotoinstitute.org/mempool/ethereum-is-doomed/)
+  * [Pre-Bitcoin Literature @ Satoshi Nakamoto Institute](https://nakamotoinstitute.org/literature/)
+  * [Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
+* "Bitcoin developers can increase its inflation"
+  * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#scarcity-can-be-changed)
+* "Bitcoin is not scarce because it can be cloned"
+  * [Bitcoin can be forked infinitely which dilutes the value](https://safehodl.github.io/failure/#can-be-forked-infinitely)
+  * [Bitcoin Can Be Cloned](https://casebitcoin.com/critiques/bitcoin-can-be-cloned)
+* [Shitcoin Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Shitcoin-Definition)
+
 
 ## Tech
 
