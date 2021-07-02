@@ -15,7 +15,7 @@
   * [Bitcoin's Distribution Was Fair](https://danhedl.medium.com/bitcoins-distribution-was-fair-e2ef7bbbc892)
 
 
-## Links to this page
+## Links to this topic
 
 [endthefud.org/justice](https://endthefud.org/justice)
 
