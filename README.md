@@ -112,7 +112,7 @@
 * "Satoshi might come back and crash Bitcoin"
 * [Measuring Decentralization](https://www.truthcoin.info/blog/measuring-decentralization/)
 
-## Governments
+## [Governments](governments)
 
 * "Governments can ban Bitcoin"
   * [Bitcoin Cannot Be Banned](https://nakamotoinstitute.org/mempool/bitcoin-cannot-be-banned/)
@@ -128,7 +128,7 @@
 * "Bitcoin is not backed by anything"
   * [Bitcoin is Not Backed by Nothing](https://nakamotoinstitute.org/mempool/bitcoin-is-not-backed-by-nothing/)
   * [Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
-* <a name="china"></a>"Bitcoin is mined/controlled by China"
+* ["Bitcoin is mined/controlled by China"](china)
   * [BetterHash: Decentralizing Bitcoin Mining With New Hashing Protocols](https://medium.com/hackernoon/betterhash-decentralizing-bitcoin-mining-with-new-hashing-protocols-291de178e3e0)
   * [Common Bitcoin Critiques: China Controls Bitcoin](https://casebitcoin.com/critiques/china-controls-bitcoin)
   * [Are Chinese Miners a Threat to Bitcoin?](https://blog.lopp.net/are-chinese-miners-threat-bitcoin/)
