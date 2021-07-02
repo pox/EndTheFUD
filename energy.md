@@ -45,7 +45,7 @@
   * [Bitcoin Emits Less Than 2% of The World's Military-Industrial Complex Carbon Emissions](https://bitcoinmagazine.com/culture/bitcoin-vs-world-military-emissions)
   * [Bitcoin's Energy Consumption - A shift in perspective](https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/)
 
-## Links to this page
+## Links to this topic
 
 [btcCO2.org](btcco2.org)
 
