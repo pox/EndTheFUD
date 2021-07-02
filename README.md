@@ -42,7 +42,7 @@
   * [Bitcoin Emits Less Than 2% of The World's Military-Industrial Complex Carbon Emissions](https://bitcoinmagazine.com/culture/bitcoin-vs-world-military-emissions)
 * [Bitcoin's Energy Consumption - A shift in perspective](https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/)
 
-## [Justice](justice.md)
+## [Justice](justice)
 
 * "Bitcon is a Ponzi/pyramid scheme"
   * [Bitcoin is not a Pyramid Scheme](https://nakamotoinstitute.org/mempool/bitcoin-is-not-a-pyramid-scheme/)
@@ -56,7 +56,7 @@
   * [ASIC Resistance is Nothing but a Blockchain Buzzword](https://medium.com/hackernoon/asic-resistance-is-nothing-but-a-blockchain-buzzword-b91d3d770366)
   * [Bitcoin's Distribution Was Fair](https://danhedl.medium.com/bitcoins-distribution-was-fair-e2ef7bbbc892)
 
-## [As Money](money.md)
+## [As Money](money)
 
 * "Too Volatile"
   * [Bitcoin is Not Too Volatile](https://nakamotoinstitute.org/mempool/bitcoin-is-not-too-volatile/)
@@ -79,7 +79,7 @@
   * ["Bitcoin is Being Pumped by Tether"](https://casebitcoin.com/critiques/bitcoin-is-pumped-by-tether)
   * [Don't Fear Tether](https://danheld.substack.com/p/dont-fear-tether)
 
-## [Inflation](inflation.md)
+## [Inflation](inflation)
 
 * "Some inflation is good for the economy"
   * [Bitcoin is The Great Definancialization](https://nakamotoinstitute.org/mempool/bitcoin-is-the-great-definancialization/)
@@ -88,7 +88,7 @@
   * [Human Action: Inflation and Deflation](https://mises.org/library/inflation-and-deflation)
 * [The Bitcoin Central Bank's Perfect Monetary Policy](https://nakamotoinstitute.org/mempool/the-bitcoin-central-banks-perfect-monetary-policy/)
 
-## [PoW vs. PoS](PoW.md)
+## [PoW vs. PoS](PoW)
 
 * [What's Wrong with Proof of Stake?](https://medium.com/@BobMcElrath/whats-wrong-with-proof-of-stake-77d4f370be15)
 * [Proof-of-Stake Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Stake-Fallacy)
@@ -100,7 +100,7 @@
 * [Centralization of Stake in PoS](https://medium.com/stakin/centralization-of-stake-in-pos-f7ccb8f8254)
 * [Proof of Stake is Still Pointless](https://www.truthcoin.info/blog/pos-still-pointless/)
 
-## [Control](control.md)
+## [Control](control)
 
 * "Miners control Bitcoin"
   * [Bitcoin Miners Beware: Invalid Blocks Need Not Apply](https://medium.com/hackernoon/bitcoin-miners-beware-invalid-blocks-need-not-apply-51c293ee278b)
