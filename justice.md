@@ -17,4 +17,8 @@
 
 ## Links to this page
 
-[endthefud.org/justice](https://endthefud.org/justice) [endthefud.org/ponzi](https://endthefud.org/ponzi) [endthefud.org/criminals](https://endthefud.org/criminals)
+[endthefud.org/justice](https://endthefud.org/justice)
+
+[endthefud.org/ponzi](https://endthefud.org/ponzi)
+
+[endthefud.org/criminals](https://endthefud.org/criminals)
