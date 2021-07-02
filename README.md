@@ -100,7 +100,7 @@
 * [Centralization of Stake in PoS](https://medium.com/stakin/centralization-of-stake-in-pos-f7ccb8f8254)
 * [Proof of Stake is Still Pointless](https://www.truthcoin.info/blog/pos-still-pointless/)
 
-## Control
+## [Control](control.md)
 
 * "Miners control Bitcoin"
   * [Bitcoin Miners Beware: Invalid Blocks Need Not Apply](https://medium.com/hackernoon/bitcoin-miners-beware-invalid-blocks-need-not-apply-51c293ee278b)
