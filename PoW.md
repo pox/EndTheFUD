@@ -12,6 +12,6 @@
 
 ## Links to this topic
 
-[endthefud.org/PoW](endthefud.org/pow)
+[endthefud.org/PoW](https://endthefud.org/pow)
 
-[endthefud.org/PoS](endthefud.org/pos)
+[endthefud.org/PoS](https://endthefud.org/pos)
