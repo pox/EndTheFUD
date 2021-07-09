@@ -4,14 +4,10 @@
 @import "{{ site.theme }}";
 $bitcoin_orange: #FF9900;
   
-h1, h2, h3, h4, h5, h6 {
+hr, header h1, h1, h2, h3, h4, h5, h6 {
   color: $bitcoin_orange;
 }
   
-header h1 {
-  color: $bitcoin_orange;
-}
-
 ul li {
   list-style-image: none;
 }
