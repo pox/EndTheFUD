@@ -1,4 +1,4 @@
-# Energy
+# [Energy](energy)
 
 * "Bitcoin wastes energy"
 
