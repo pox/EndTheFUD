@@ -2,8 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-$bitcoin_orage: #FF9900
+$bitcoin_orange: #FF9900;
   
-header h1 {
+h1, h2, h3, h4, h5, h6 {
   color: $bitcoin_orange;
 }
