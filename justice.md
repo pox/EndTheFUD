@@ -1,4 +1,4 @@
-# Justice
+# [Justice](justice)
 
 * "Bitcon is a Ponzi/pyramid scheme"
   * [Bitcoin is not a Pyramid Scheme](https://nakamotoinstitute.org/mempool/bitcoin-is-not-a-pyramid-scheme/)
