@@ -1,4 +1,4 @@
-# Bitcoin as Money
+# [Bitcoin as Money](money)
 
 * "Too Volatile"
   * [Bitcoin is Not Too Volatile](https://nakamotoinstitute.org/mempool/bitcoin-is-not-too-volatile/)
