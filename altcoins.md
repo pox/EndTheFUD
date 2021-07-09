@@ -28,4 +28,4 @@
 
 ## Links to this topic
 
-[endthefud.org/altcoins](/altcoins)
+[endthefud.org/altcoins](https://endthefud.org/altcoins)
