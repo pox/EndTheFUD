@@ -28,4 +28,6 @@
 
 ## Links to this topic
 
-[endthefud.org/altcoins](https://endthefud.org/altcoins) [shitcoin.review](https://shitcoin.review)
+[endthefud.org/altcoins](https://endthefud.org/altcoins)
+
+[shitcoin.review](https://shitcoin.review)
