@@ -139,7 +139,7 @@
   * [The Bitcoin Standard (chapters 1-3)](https://saifedean.com/book/)
   * [The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/)
 
-## Altcoins
+## [Altcoins](altcoins)
 
 * [Why Bitcoin’s Imitators Are Scams](https://tomerstrolight.medium.com/why-bitcoins-imitators-are-scams-e38fab4c78ba)
 * "Coin X is faster than Bitcoin"
