@@ -165,7 +165,7 @@
 * [Shitcoin Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Shitcoin-Definition)
 
 
-## Tech
+## [Tech](tech)
 
 * "Quantum computing breaks Bitcoin"
   * [What effects would a scalable Quantum Computer have on Bitcoin?](https://bitcoin.stackexchange.com/questions/6062/what-effects-would-a-scalable-quantum-computer-have-on-bitcoin)
