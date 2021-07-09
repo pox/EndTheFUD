@@ -25,3 +25,7 @@
 * [Bitcoin Can't Be Copied](https://nakamotoinstitute.org/mempool/bitcoin-cant-be-copied/)
 * [Bitcoin, Not Blockchain](https://nakamotoinstitute.org/mempool/bitcoin-not-blockchain/)
 * [Why Bitcoin’s Imitators Are Scams](https://tomerstrolight.medium.com/why-bitcoins-imitators-are-scams-e38fab4c78ba)
+
+## Links to this topic
+
+[endthefud.org/altcoins](/altcoins)
