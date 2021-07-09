@@ -1,4 +1,4 @@
-# Altcoins
+# [Altcoins](altcoins)
 
 
 * "Coin X is faster than Bitcoin"
