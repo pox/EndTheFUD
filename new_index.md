@@ -1,5 +1,3 @@
-# End The [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt)
-
 {% include_relative energy.md %}
 
 {% include_relative justice.md %}
