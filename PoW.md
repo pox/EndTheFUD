@@ -10,4 +10,4 @@
 * [Centralization of Stake in PoS](https://medium.com/stakin/centralization-of-stake-in-pos-f7ccb8f8254)
 * [Proof of Stake is Still Pointless](https://www.truthcoin.info/blog/pos-still-pointless/)
 
-* Links to this topic: [endthefud.org/PoW](https://endthefud.org/pow) [endthefud.org/PoS](https://endthefud.org/pos)
+* Links to this topic: [endthefud.org/PoW](https://endthefud.org/PoW) [endthefud.org/PoS](https://endthefud.org/PoS)
