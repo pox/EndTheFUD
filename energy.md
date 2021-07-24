@@ -30,6 +30,7 @@
   * [Carbon Footprint differences: BTC vs Banks](https://medium.com/@mukeat/carbon-footprint-differences-btc-vsbanks-a5f8f0b844d0)
  
 * "Uses dirty, non-renewable energy"
+  * [ASIC Chip Technology is Renewable Energy’s Future](https://www.theblockcrypto.com/post/11481/asic-chip-technology-is-renewable-energys-future) 
   * [Bitcoin Is The First Global Market For Electricity And Will Unleash Renewables](https://www.citadel21.com/bitcoin-is-the-first-global-market-for-electricity-and-will-unleash-renewables)
   * [Noahbjectivity on Bitcoin Mining](https://medium.com/@nic__carter/noahbjectivity-on-bitcoin-mining-2052226310cb)
   * [Green energy and Bitcoin](https://medium.com/hackernoon/green-energy-and-bitcoin-eb7961f38382)
