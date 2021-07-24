@@ -57,6 +57,6 @@ This website has a few short domain aliases for easier sharing.
 
 # Contributing
 
-Please feel free to [add and improve](https://github.com/pox/EndTheFUD/edit/main/README.md).
+Please feel free to [add and improve](https://github.com/pox/EndTheFUD).
 
 Sources should be free, as in not behind a pay-wall.
