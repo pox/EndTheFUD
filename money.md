@@ -9,6 +9,7 @@
   * [The Bullish Case for Bitcoin](https://nakamotoinstitute.org/mempool/the-bullish-case-for-bitcoin/)
 
 * "No intrinsic value", "Bitcoin is a bubble"
+  * [Bitcoin’s Fundamental Value is That it is The Most Excellent Money That Exists](https://tomerstrolight.medium.com/bitcoins-fundamental-value-is-that-it-is-the-most-excellent-money-that-exists-24be5e1d6b98)
   * [An (Institutional) Investor’s Take on Cryptoassets](https://medium.com/john-pfeffer/an-institutional-investors-take-on-cryptoassets-690421158904)
   * [Value Proposition](https://github.com/libbitcoin/libbitcoin-system/wiki/Value-Proposition)
   * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
