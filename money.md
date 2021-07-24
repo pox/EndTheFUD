@@ -26,4 +26,4 @@
   * ["Bitcoin is Being Pumped by Tether"](https://casebitcoin.com/critiques/bitcoin-is-pumped-by-tether)
   * [Don't Fear Tether](https://danheld.substack.com/p/dont-fear-tether)
 
-* Links to this page: [endthefud.org/energy](https://endthefud.org/money)
+* Links to this page: [endthefud.org/money](https://endthefud.org/money)
