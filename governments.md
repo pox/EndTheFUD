@@ -2,6 +2,7 @@
 
 * "Governments can ban Bitcoin"
   * [Bitcoin Cannot Be Banned](https://nakamotoinstitute.org/mempool/bitcoin-cannot-be-banned/)
+  * [Implications of Outlawing Bitcoin](https://dergigi.com/2021/08/02/implications-of-outlawing-bitcoin/)
   * [Speculative Attack](https://nakamotoinstitute.org/mempool/speculative-attack/)
   * [A Most Peaceful Revoluion](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e)
   * [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
