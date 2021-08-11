@@ -22,6 +22,7 @@
   *  [Bitcoin’s Energy Usage Isn’t a Problem. Here’s Why.](https://www.swanbitcoin.com/bitcoins-energy-usage-is-not-a-problem-heres-why-by-lyn-alden/) (behind [registration wall](https://blog.getadmiral.com/registration-wall)) 
 
 * "Uses more energy than Visa per transaction"
+  * [Bitcoin's Energy Use Compared to Other Major Industries](https://bitcoinmagazine.com/business/bitcoin-energy-use-compare-industry)
   * [The Bitcoin vs Visa Electricity Consumption Fallacy](https://hackernoon.com/the-bitcoin-vs-visa-electricity-consumption-fallacy-8cf194987a50)
   * [On Bitcoin, the Gray Lady Embraces Climate Lysenkoism](https://medium.com/@nic__carter/on-bitcoin-the-gray-lady-embraces-climate-lysenkoism-a2d31e465ec0)
   * [What Bloomberg Gets Wrong About Bitcoin’s Climate Footprint](https://www.coindesk.com/what-bloomberg-gets-wrong-about-bitcoins-climate-footprint)
