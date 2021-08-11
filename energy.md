@@ -1,7 +1,6 @@
 # [Energy](energy)
 
 * "Bitcoin wastes energy"
-  * [Bitcoin’s Energy Usage Isn’t a Problem. Here’s Why.](https://www.swanbitcoin.com/bitcoins-energy-usage-is-not-a-problem-heres-why-by-lyn-alden/)
   * [How Much Energy Does Bitcoin Actually Consume?](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume)
   * [Three Myths about Bitcoin’s Energy Consumption](https://blog.trezor.io/three-myths-about-bitcoins-energy-consumption-ef613a1f3d5)
   * [On Bitcoin's Energy Consumption](https://docsend.com/view/adwmdeeyfvqwecj2)
@@ -20,6 +19,7 @@
   * [FACT CHECK: Is Bitcoin mining environmentally unfriendly?](https://blog.coinbase.com/fact-check-is-bitcoin-mining-environmentally-unfriendly-3559823af6f1)
   * "Bitcoin might exhaust all energy available to people"
     * [Energy Exhaustion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Exhaustion-Fallacy)
+  *  [Bitcoin’s Energy Usage Isn’t a Problem. Here’s Why.](https://www.swanbitcoin.com/bitcoins-energy-usage-is-not-a-problem-heres-why-by-lyn-alden/) (behind [registration wall](https://blog.getadmiral.com/registration-wall)) 
 
 * "Uses more energy than Visa per transaction"
   * [The Bitcoin vs Visa Electricity Consumption Fallacy](https://hackernoon.com/the-bitcoin-vs-visa-electricity-consumption-fallacy-8cf194987a50)
