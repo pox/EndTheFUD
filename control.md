@@ -14,6 +14,10 @@
 
 [Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core-/)
 
+### *"Blockstream controls Bitcoin"*
+
+[Fact or FUD — “BlockStream , Inc is the main force behind Bitcoin (and taken over)”](https://whalecalls.medium.com/fud-or-fact-blockstream-inc-is-the-main-force-behind-bitcoin-and-taken-over-160aed93c003)
+
 ### Decentralization
 
 [Measuring Decentralization](https://www.truthcoin.info/blog/measuring-decentralization/)
