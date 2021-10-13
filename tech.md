@@ -6,6 +6,8 @@
 
 [Quantum attacks on Bitcoin, and how to protect against them](https://arxiv.org/abs/1710.10377)
 
+[Quantum Computing and Cryptography](https://www.schneier.com/blog/archives/2018/09/quantum_computi_2.html)
+
 [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure/#quantum-computing-will-break)
 
 [Here’s Why Quantum Computing Will Not Break Cryptocurrencies](https://www.forbes.com/sites/rogerhuang/2020/12/21/heres-why-quantum-computing-will-not-break-cryptocurrencies/?sh=24a95b3c167b)
