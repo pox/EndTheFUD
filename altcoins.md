@@ -18,7 +18,7 @@ See [Justice](#justice)
 
 [An Economic Analysis of Ethereum](https://www.lynalden.com/ethereum-analysis/)
 
-[The Problem with Ethereum](https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95)
+[The Problem with Ethereum: Part 1](https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95) & [Part 2](https://tomerstrolight.medium.com/the-problem-with-ethereum-part-2-a55f9170f7e7)
 
 [Ethereum is Doomed](https://nakamotoinstitute.org/mempool/ethereum-is-doomed/)
 
