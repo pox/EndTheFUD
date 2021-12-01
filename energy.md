@@ -86,4 +86,4 @@
 
 [Bitcoin's Energy Consumption - A shift in perspective](https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/)
 
-Links to this topic: [btcCO2.org](http://btcco2.org) [btcCO2.com](http://btcco2.com) [endthefud.org/energy](https://endthefud.org/energy)
+Links to this topic: [btcCO2.org](http://btcco2.org) [btcCO2.com](http://btcco2.com) [btcenergy.org](http://btcenergy.org) [endthefud.org/energy](https://endthefud.org/energy)
