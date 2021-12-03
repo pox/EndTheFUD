@@ -8,6 +8,8 @@
 
 [On Stake and Consensus](https://download.wpsoftware.net/bitcoin/pos.pdf)
 
+[Proof-of-Stake Is a Defective Mechanism](https://vicentsus.org/docs/proof-of-stake.pdf)
+
 [Long Live Proof-of-Work, Long Live Mining](https://www.truthcoin.info/blog/pow-and-mining)
 
 [Proof-of-Stake & the Wrong Engineering Mindset](https://hugonguyen.medium.com/proof-of-stake-the-wrong-engineering-mindset-15e641ab65a2)
