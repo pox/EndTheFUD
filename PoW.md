@@ -20,4 +20,6 @@
 
 [Proof of Stake is Still Pointless](https://www.truthcoin.info/blog/pos-still-pointless/)
 
+[Proof-of-Stake and Stablecoins: A Blockchain Centralization Dilemma](https://www.lynalden.com/proof-of-stake/)
+
 Links to this topic: [endthefud.org/PoW](https://endthefud.org/PoW) [endthefud.org/PoS](https://endthefud.org/PoS)
