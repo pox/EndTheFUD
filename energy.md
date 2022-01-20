@@ -36,6 +36,8 @@
 
 [Bitcoin’s Energy Usage Isn’t a Problem. Here’s Why.](https://www.swanbitcoin.com/bitcoins-energy-usage-is-not-a-problem-heres-why-by-lyn-alden/) (behind [registration wall](https://blog.getadmiral.com/registration-wall)) 
 
+[Statement before the United States House of Representatives by Brian Brooks](https://energycommerce.house.gov/sites/democrats.energycommerce.house.gov/files/documents/Witness%20Testimony_Brooks_OI_2022.01.20_0.pdf)
+
 ### *"Bitcoin might exhaust all energy available to people"*
 
 [Energy Exhaustion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Exhaustion-Fallacy)
