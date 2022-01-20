@@ -40,11 +40,12 @@
 [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
 
 
-### *Tether*
+### *"Bitcoin's price is artificially manipulated"*
 
 ["Bitcoin is Being Pumped by Tether"](https://casebitcoin.com/critiques/bitcoin-is-pumped-by-tether)
 
 [Don't Fear Tether](https://danheld.substack.com/p/dont-fear-tether)
 
+[Bitcoin Futures Market Explained and The Defense Against Bitcoin Price Manipulation](https://bitcoinmagazine.com/markets/bitcoin-futures-market-explained-price-manipulation)
 
 Links to this page: [endthefud.org/money](https://endthefud.org/money)
