@@ -1,5 +1,7 @@
 # [Energy](energy)
 
+([twitter thread version](https://twitter.com/xi27pox/status/1396532232609746955))
+
 ### *"Bitcoin wastes energy"*
 
 [How Much Energy Does Bitcoin Actually Consume?](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume) (Nic Carter)
@@ -64,28 +66,29 @@
 
 [Bitcoin Is The First Global Market For Electricity And Will Unleash Renewables](https://www.citadel21.com/bitcoin-is-the-first-global-market-for-electricity-and-will-unleash-renewables) (Nima Tabatabai)
 
-[Noahbjectivity on Bitcoin Mining](https://medium.com/@nic__carter/noahbjectivity-on-bitcoin-mining-2052226310cb)
+[Noahbjectivity on Bitcoin Mining](https://medium.com/@nic__carter/noahbjectivity-on-bitcoin-mining-2052226310cb) (Nic Carter)
 
-[Green energy and Bitcoin](https://medium.com/hackernoon/green-energy-and-bitcoin-eb7961f38382)
+[Green energy and Bitcoin](https://medium.com/hackernoon/green-energy-and-bitcoin-eb7961f38382) (Knut Svanholm)
 
-[Jack Dorsey Says Bitcoin Can Make the World Greener. Could He Be Right?](https://nymag.com/intelligencer/2021/05/jack-dorsey-says-bitcoin-is-climate-friendly-is-he-right.html)
+[Jack Dorsey Says Bitcoin Can Make the World Greener. Could He Be Right?](https://nymag.com/intelligencer/2021/05/jack-dorsey-says-bitcoin-is-climate-friendly-is-he-right.html) (Jen Wieczner)
 
-[Beware of Lazy Research: Let’s Talk Electricity Waste & How Bitcoin Mining Can Power A Renewable Energy Renaissance](https://medium.com/coinshares/beware-of-lazy-research-c828c900b7d5)
+[Beware of Lazy Research: Let’s Talk Electricity Waste & How Bitcoin Mining Can Power A Renewable Energy Renaissance](https://medium.com/coinshares/beware-of-lazy-research-c828c900b7d5) (Christopher Bendiksen)
 
-[Addressing Concerns About Bitcoin’s Electricity Use](https://mdotbit.medium.com/addressing-concerns-about-bitcoins-electricity-use-378e0de4af42)
+[Addressing Concerns About Bitcoin’s Electricity Use](https://mdotbit.medium.com/addressing-concerns-about-bitcoins-electricity-use-378e0de4af42) (mBit)
 
-[How Bitcoin could drive the clean energy revolution](https://www.coincenter.org/how-bitcoin-could-drive-the-clean-energy-revolution/)
+[How Bitcoin could drive the clean energy revolution](https://www.coincenter.org/how-bitcoin-could-drive-the-clean-energy-revolution/) (Peter Van Valkenburgh)
 
 ### *Bitcoin vs. Gold mining*
 
-[Yellow Rock Bad, Orange Coin Good: Environmental & Social Impacts of Gold & Bitcoin](https://youtu.be/ns_I2LpeAbQ?t=26084)
+[Yellow Rock Bad, Orange Coin Good: Environmental & Social Impacts of Gold & Bitcoin](https://youtu.be/ns_I2LpeAbQ?t=26084) (Hass McCook)
 
-[Comparing Bitcoin’s Environmental Impact…](https://hassmccook.medium.com/comparing-bitcoins-environmental-impact-f56b18014f64)
+[Comparing Bitcoin’s Environmental Impact…](https://hassmccook.medium.com/comparing-bitcoins-environmental-impact-f56b18014f64) (Hass McCook)
 
-[Is Bitcoin an Environmental Disaster?](https://www.pairagraph.com/dialogue/9f0dfc47978740ebb0439efaadf23f41/2)
+[Is Bitcoin an Environmental Disaster?](https://www.pairagraph.com/dialogue/9f0dfc47978740ebb0439efaadf23f41/2) (Dominic Frisby)
 
-[Bitcoin Emits Less Than 2% of The World's Military-Industrial Complex Carbon Emissions](https://bitcoinmagazine.com/culture/bitcoin-vs-world-military-emissions)
+[Bitcoin Emits Less Than 2% of The World's Military-Industrial Complex Carbon Emissions](https://bitcoinmagazine.com/culture/bitcoin-vs-world-military-emissions) (Hass McCook)
 
-[Bitcoin's Energy Consumption - A shift in perspective](https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/)
+[Bitcoin's Energy Consumption - A shift in perspective](https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/) (Gigi)
 
-Links to this topic: [btcCO2.org](http://btcco2.org) [btcCO2.com](http://btcco2.com) [btcenergy.org](http://btcenergy.org) [endthefud.org/energy](https://endthefud.org/energy)
+Links to this topic: [btcCO2.org](http://btcco2.org) [btcCO2.com](http://btcco2.com) [btcenergy.org](http://btcenergy.org) [endthefud.org/energy](https://endthefud.org/energy) [energy.endthefud.org](http://energy.endthefud.org)
+
