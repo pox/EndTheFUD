@@ -12,57 +12,57 @@
 
 [Bitcoin Does Not Waste Energy](https://nakamotoinstitute.org/mempool/bitcoin-does-not-waste-energy/) (Parker Lewis)
 
-[Energy Waste Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Waste-Fallacy)
+[Energy Waste Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Waste-Fallacy) (Eric Voskuil)
 
-[Bitcoin Mining and the Case for More Energy](https://bitcoinandenergy.medium.com/bitcoin-mining-and-the-case-for-more-energy-90094ce25fac)
+[Bitcoin Mining and the Case for More Energy](https://bitcoinandenergy.medium.com/bitcoin-mining-and-the-case-for-more-energy-90094ce25fac) (Hodl'n Caulfield & Selene Lindstrom)
 
-[The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption)
+[The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption) (Nic Carter)
 
-[Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
+[Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms) (Ria Bhutoria)
 
-[Common Critiques #4: Bitcoin Wastes Energy](https://casebitcoin.com/critiques/bitcoin-wastes-energy)
+[Common Critiques #4: Bitcoin Wastes Energy](https://casebitcoin.com/critiques/bitcoin-wastes-energy) (Case Bitcoin)
 
-[The Bitcoin Mining Network: Trends, Average Creation Costs, Electricity Consumption & Sources](https://coinshares.com/research/bitcoin-mining-network-december-2019)
+[The Bitcoin Mining Network: Trends, Average Creation Costs, Electricity Consumption & Sources](https://coinshares.com/research/bitcoin-mining-network-december-2019) (Christopher Bendiksen & Samuel Gibbons)
 
-[PoW is Efficient](https://danhedl.medium.com/pow-is-efficient-aa3d442754d3)
+[PoW is Efficient](https://danhedl.medium.com/pow-is-efficient-aa3d442754d3) (Dan Held)
 
-[Bitcoin Miners Consume A Reasonable Amount of Energy — And It's All Worth It](https://bitcoinmagazine.com/business/op-ed-bitcoin-miners-consume-reasonable-amount-energy-and-its-all-worth-it)
+[Bitcoin Miners Consume A Reasonable Amount of Energy — And It's All Worth It](https://bitcoinmagazine.com/business/op-ed-bitcoin-miners-consume-reasonable-amount-energy-and-its-all-worth-it) (Marc Bevand)
 
-[Bitcoin Mining Wastes Energy? What If That’s Good?](https://www.coindesk.com/bitcoin-mining-wastes-energy-thats-good-thing)
+[Bitcoin Mining Wastes Energy? What If That’s Good?](https://www.coindesk.com/bitcoin-mining-wastes-energy-thats-good-thing) (Michael J. Casey)
 
-[Bitcoin: A Bold American Future](https://journal.bitcoinreserve.com/bitcoin-a-bold-american-future/)
+[Bitcoin: A Bold American Future](https://journal.bitcoinreserve.com/bitcoin-a-bold-american-future/) (Conner Brown)
 
-[FACT CHECK: Is Bitcoin mining environmentally unfriendly?](https://blog.coinbase.com/fact-check-is-bitcoin-mining-environmentally-unfriendly-3559823af6f1)
+[FACT CHECK: Is Bitcoin mining environmentally unfriendly?](https://blog.coinbase.com/fact-check-is-bitcoin-mining-environmentally-unfriendly-3559823af6f1) (Coinbase)
 
-[Bitcoin’s Energy Usage Isn’t a Problem. Here’s Why.](https://www.swanbitcoin.com/bitcoins-energy-usage-is-not-a-problem-heres-why-by-lyn-alden/) (behind [registration wall](https://blog.getadmiral.com/registration-wall)) 
+[Bitcoin’s Energy Usage Isn’t a Problem. Here’s Why.](https://www.swanbitcoin.com/bitcoins-energy-usage-is-not-a-problem-heres-why-by-lyn-alden/) (behind [registration wall](https://blog.getadmiral.com/registration-wall)) (Lyn Alden)
 
-[Statement before the United States House of Representatives by Brian Brooks](https://energycommerce.house.gov/sites/democrats.energycommerce.house.gov/files/documents/Witness%20Testimony_Brooks_OI_2022.01.20_0.pdf)
+[Statement before the United States House of Representatives by Brian Brooks](https://energycommerce.house.gov/sites/democrats.energycommerce.house.gov/files/documents/Witness%20Testimony_Brooks_OI_2022.01.20_0.pdf) (Brian P. Brooks)
 
 ### *"Bitcoin might exhaust all energy available to people"*
 
-[Energy Exhaustion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Exhaustion-Fallacy)
+[Energy Exhaustion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Exhaustion-Fallacy) (Eric Voskuil)
 
 ### *"Uses more energy than Visa per transaction"*
 
-[Bitcoin's Energy Use Compared to Other Major Industries](https://bitcoinmagazine.com/business/bitcoin-energy-use-compare-industry)
+[Bitcoin's Energy Use Compared to Other Major Industries](https://bitcoinmagazine.com/business/bitcoin-energy-use-compare-industry) (Hass McCook)
 
-[The Bitcoin vs Visa Electricity Consumption Fallacy](https://hackernoon.com/the-bitcoin-vs-visa-electricity-consumption-fallacy-8cf194987a50)
+[The Bitcoin vs Visa Electricity Consumption Fallacy](https://hackernoon.com/the-bitcoin-vs-visa-electricity-consumption-fallacy-8cf194987a50) (Carlos Domingo)
 
-[On Bitcoin, the Gray Lady Embraces Climate Lysenkoism](https://medium.com/@nic__carter/on-bitcoin-the-gray-lady-embraces-climate-lysenkoism-a2d31e465ec0)
+[On Bitcoin, the Gray Lady Embraces Climate Lysenkoism](https://medium.com/@nic__carter/on-bitcoin-the-gray-lady-embraces-climate-lysenkoism-a2d31e465ec0) (Nic Carter)
 
-[What Bloomberg Gets Wrong About Bitcoin’s Climate Footprint](https://www.coindesk.com/what-bloomberg-gets-wrong-about-bitcoins-climate-footprint)
+[What Bloomberg Gets Wrong About Bitcoin’s Climate Footprint](https://www.coindesk.com/what-bloomberg-gets-wrong-about-bitcoins-climate-footprint) (Nic Carter)
 
-[The Frustrating, Maddening, All-Consuming Bitcoin Energy Debate](https://www.coindesk.com/frustrating-maddening-all-consuming-bitcoin-energy-debate)
+[The Frustrating, Maddening, All-Consuming Bitcoin Energy Debate](https://www.coindesk.com/frustrating-maddening-all-consuming-bitcoin-energy-debate) (Nic Carter)
 
-[Uncovering The Hidden Costs Of The Petrodollar](https://bitcoinmagazine.com/culture/the-hidden-costs-of-the-petrodollar)
+[Uncovering The Hidden Costs Of The Petrodollar](https://bitcoinmagazine.com/culture/the-hidden-costs-of-the-petrodollar) (Alex Goldstein)
 
-[Carbon Footprint differences: BTC vs Banks](https://medium.com/@mukeat/carbon-footprint-differences-btc-vsbanks-a5f8f0b844d0)
+[Carbon Footprint differences: BTC vs Banks](https://medium.com/@mukeat/carbon-footprint-differences-btc-vsbanks-a5f8f0b844d0) (Stackmore)
  
 ### *"Uses dirty, non-renewable energy"*
 
-[ASIC Chip Technology is Renewable Energy’s Future](https://www.theblockcrypto.com/post/11481/asic-chip-technology-is-renewable-energys-future) 
+[ASIC Chip Technology is Renewable Energy’s Future](https://www.theblockcrypto.com/post/11481/asic-chip-technology-is-renewable-energys-future) (Phil Geiger)
 
-[Bitcoin Is The First Global Market For Electricity And Will Unleash Renewables](https://www.citadel21.com/bitcoin-is-the-first-global-market-for-electricity-and-will-unleash-renewables)
+[Bitcoin Is The First Global Market For Electricity And Will Unleash Renewables](https://www.citadel21.com/bitcoin-is-the-first-global-market-for-electricity-and-will-unleash-renewables) (Nima Tabatabai)
 
 [Noahbjectivity on Bitcoin Mining](https://medium.com/@nic__carter/noahbjectivity-on-bitcoin-mining-2052226310cb)
 
