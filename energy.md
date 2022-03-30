@@ -1,6 +1,6 @@
 # [Energy](energy)
 
-([twitter thread version](https://twitter.com/xi27pox/status/1396532232609746955))
+[🧵](https://twitter.com/xi27pox/status/1396532232609746955)
 
 ### *"Bitcoin wastes energy"*
 
