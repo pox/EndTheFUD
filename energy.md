@@ -2,15 +2,15 @@
 
 ### *"Bitcoin wastes energy"*
 
-[How Much Energy Does Bitcoin Actually Consume?](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume)
+[How Much Energy Does Bitcoin Actually Consume?](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume) (Nic Carter)
 
-[Three Myths about Bitcoin’s Energy Consumption](https://blog.trezor.io/three-myths-about-bitcoins-energy-consumption-ef613a1f3d5)
+[Three Myths about Bitcoin’s Energy Consumption](https://blog.trezor.io/three-myths-about-bitcoins-energy-consumption-ef613a1f3d5) (Dominik Stroukal)
 
-[On Bitcoin's Energy Consumption](https://docsend.com/view/adwmdeeyfvqwecj2)
+[On Bitcoin's Energy Consumption](https://docsend.com/view/adwmdeeyfvqwecj2) (Galaxy Digital Mining)
 
-[Natural gas venting: How Bitcoin solved a 160 year old problem.](https://www.upstreamdata.ca/post/natural-gas-venting-how-bitcoin-solved-a-160-year-old-problem)
+[Natural gas venting: How Bitcoin solved a 160 year old problem.](https://blog.upstreamdata.ca/natural-gas-venting-how-bitcoin-solved-a-160-year-old-problem/) (Upstream DATA)
 
-[Bitcoin Does Not Waste Energy](https://nakamotoinstitute.org/mempool/bitcoin-does-not-waste-energy/)
+[Bitcoin Does Not Waste Energy](https://nakamotoinstitute.org/mempool/bitcoin-does-not-waste-energy/) (Parker Lewis)
 
 [Energy Waste Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Waste-Fallacy)
 
