@@ -34,6 +34,7 @@
 
 [Bitcoin is a Bubble](https://casebitcoin.com/critiques/bitcoin-is-a-bubble)
 
+[Bitcoin has no intrinsic value: debunked](https://bitcoinreserve.com/blog/bitcoin-has-no-intrinsic-value) (Arman the Parman)
 
 ### *"Bitcoin isn't scalable", "Can't process as many payments as Visa"*
 
