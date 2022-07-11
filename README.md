@@ -33,7 +33,7 @@
 
 * [The Bitcoin Standard](https://saifedean.com/book/) (Saifedean Ammous)
 * Cryptoeconomics: [Book](https://voskuil.org/cryptoeconomics/), [Wiki](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics) (Eric Voskuil)
-* [Thank God for Bitcoin](https://www.amazon.com/Thank-God-Bitcoin-Corruption-Redemption/dp/1641991216) (mul. Authors)
+* [Thank God for Bitcoin](https://www.amazon.com/Thank-God-Bitcoin-Corruption-Redemption/dp/1641991216)
 * [The Bullish Case for Bitcoin](https://www.bullishcaseforbitcoin.com/) (Vijay Boyapati)
 * **Energy & Climate**
   * [Apocalypse Never - Why Environmental Alarmism Hurts Us All](https://www.amazon.com/Apocalypse-Never-Environmental-Alarmism-Hurts/dp/0063001691) (Michael Shellenberger)
