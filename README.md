@@ -29,6 +29,8 @@
 * [Why Bitcoin](https://tomerstrolight.medium.com/why-bitcoin-the-series-660fe20ec244)
 * [Getting Started With Bitcoin](https://www.lopp.net/bitcoin-information/getting-started.html)
 
+{% include_relative books.md %}
+
 ## Books
 
 * [The Bitcoin Standard](https://saifedean.com/book/) (Saifedean Ammous)
