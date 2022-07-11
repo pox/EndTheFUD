@@ -33,8 +33,13 @@
 
 * [The Bitcoin Standard](https://saifedean.com/book/)
 * Cryptoeconomics: [Book](https://voskuil.org/cryptoeconomics/), [Wiki](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics)
-* [Thank God for Bitcoin](https://www.amazon.com/Thank-God-Bitcoin-Corruption-Redemption/dp/1641991216/ref=sr_1_1?dchild=1&keywords=thank+god+for+bitcoin&qid=1607152012&sr=8-1)
-
+* [Thank God for Bitcoin](https://www.amazon.com/Thank-God-Bitcoin-Corruption-Redemption/dp/1641991216)
+* [The Bullish Case for Bitcoin](https://www.bullishcaseforbitcoin.com/)
+* **Energy & Climate**
+  * [Apocalypse Never - Why Environmental Alarmism Hurts Us All](https://www.amazon.com/Apocalypse-Never-Environmental-Alarmism-Hurts/dp/0063001691) (Michael Shellenberger)
+  * [False Alarm](https://www.amazon.com/False-Alarm-Climate-Change-Trillions/dp/1541647475/) (Bjorn Lomborg)
+  * [Fossil Future](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not/dp/0593420411) (Alex Epstein)
+  
 ## Writers
 
 * Nic Carter: [Medium](https://medium.com/@nic__carter)
