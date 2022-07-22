@@ -14,6 +14,7 @@
 
 [What Quantum Computers Mean for Bitcoin's Future](https://bitcoinreserve.com/blog/debunked-quantum-computing-can-kill-bitcoin) (Arman The Parman)
 
+## Other
 ["Block rewards will stop in the future and Bitcoin will lose all security"](https://safehodl.github.io/failure/#block-rewards-will-stop) (safehodl)
 
 ["Bitcoin Gets Hacked"](https://casebitcoin.com/critiques/bitcoin-gets-hacked) (casebitcoin)
