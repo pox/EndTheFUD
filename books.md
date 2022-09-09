@@ -11,3 +11,5 @@
 * **Economics**
   * [Human Action](https://mises.org/library/human-action-0) (Ludwig von Mises)
   * [Economics in One Lesson](https://mises.org/library/economics-one-lesson) (Henry Hazlitt)
+
+A much more extensive list of Bitcoin books: [bitcoin-resources.com](https://bitcoin-resources.com/books/).
