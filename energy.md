@@ -4,6 +4,8 @@
 
 ### *"Bitcoin wastes energy"*
 
+[Bitcoin: Cryptopayments Energy Efficiency](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125499) (Michel Khazzaka)
+
 [How Much Energy Does Bitcoin Actually Consume?](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume) (Nic Carter)
 
 [Three Myths about Bitcoin’s Energy Consumption](https://blog.trezor.io/three-myths-about-bitcoins-energy-consumption-ef613a1f3d5) (Dominik Stroukal)
