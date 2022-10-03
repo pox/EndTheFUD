@@ -64,7 +64,7 @@
  
 ### *"Uses dirty, non-renewable energy"*
 
-[Bitcoin is already using clean energy](https://bitcoincleanup.com) (Ali Sherief)
+[Bitcoin is Already Using Clean Energy](https://bitcoincleanup.com) (Ali Sherief)
 
 [ASIC Chip Technology is Renewable Energy’s Future](https://www.theblockcrypto.com/post/11481/asic-chip-technology-is-renewable-energys-future) (Phil Geiger)
 
