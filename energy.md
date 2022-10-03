@@ -64,6 +64,8 @@
  
 ### *"Uses dirty, non-renewable energy"*
 
+[Bitcoin is already using clean energy](https://bitcoincleanup.com) (Ali Sherief)
+
 [ASIC Chip Technology is Renewable Energy’s Future](https://www.theblockcrypto.com/post/11481/asic-chip-technology-is-renewable-energys-future) (Phil Geiger)
 
 [Bitcoin Is The First Global Market For Electricity And Will Unleash Renewables](https://www.citadel21.com/bitcoin-is-the-first-global-market-for-electricity-and-will-unleash-renewables) (Nima Tabatabai)
