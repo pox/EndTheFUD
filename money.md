@@ -6,7 +6,7 @@
 
 [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/) (Lyn Alden)
 
-[Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms) (Ria Bhutoria)
+[Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/research-and-insights/addressing-persisting-bitcoin-criticisms#heading2) (Ria Bhutoria)
 
 
 ### *"Bitcoin is a bad medium-of-exchange"*

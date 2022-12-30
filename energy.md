@@ -22,21 +22,17 @@
 
 [The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption) (Nic Carter)
 
-[Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms) (Ria Bhutoria)
+[Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/research-and-insights/addressing-persisting-bitcoin-criticisms#heading4) (Ria Bhutoria)
 
 [Common Critiques #4: Bitcoin Wastes Energy](https://casebitcoin.com/critiques/bitcoin-wastes-energy) (Case Bitcoin)
 
-[The Bitcoin Mining Network: Trends, Average Creation Costs, Electricity Consumption & Sources](https://coinshares.com/research/bitcoin-mining-network-december-2019) (Christopher Bendiksen & Samuel Gibbons)
+[The Bitcoin Mining Network: Trends, Average Creation Costs, Electricity Consumption & Sources](https://coinshares.com/research/bitcoin-mining-network-2022) (Christopher Bendiksen & Samuel Gibbons)
 
 [PoW is Efficient](https://danhedl.medium.com/pow-is-efficient-aa3d442754d3) (Dan Held)
 
 [Bitcoin Miners Consume A Reasonable Amount of Energy — And It's All Worth It](https://bitcoinmagazine.com/business/op-ed-bitcoin-miners-consume-reasonable-amount-energy-and-its-all-worth-it) (Marc Bevand)
 
 [Bitcoin Mining Wastes Energy? What If That’s Good?](https://www.coindesk.com/bitcoin-mining-wastes-energy-thats-good-thing) (Michael J. Casey)
-
-[Bitcoin: A Bold American Future](https://journal.bitcoinreserve.com/bitcoin-a-bold-american-future/) (Conner Brown)
-
-[FACT CHECK: Is Bitcoin mining environmentally unfriendly?](https://blog.coinbase.com/fact-check-is-bitcoin-mining-environmentally-unfriendly-3559823af6f1) (Coinbase)
 
 [Bitcoin’s Energy Usage Isn’t a Problem. Here’s Why.](https://www.swanbitcoin.com/bitcoins-energy-usage-is-not-a-problem-heres-why-by-lyn-alden/) (behind [registration wall](https://blog.getadmiral.com/registration-wall)) (Lyn Alden)
 
@@ -94,5 +90,5 @@
 
 [Bitcoin's Energy Consumption - A shift in perspective](https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/) (Gigi)
 
-Links to this topic: [btcCO2.org](http://btcco2.org) [btcCO2.com](http://btcco2.com) [btcenergy.org](http://btcenergy.org) [endthefud.org/energy](https://endthefud.org/energy) [energy.endthefud.org](http://energy.endthefud.org)
+Links to this topic: [btcCO2.org](http://btcco2.org) [btcenergy.org](http://btcenergy.org) [endthefud.org/energy](https://endthefud.org/energy) [energy.endthefud.org](http://energy.endthefud.org)
 
