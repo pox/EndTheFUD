@@ -1,6 +1,6 @@
 ## Books
 
-* [The Bitcoin Standard](https://www.resistance.money/research/library/to%20be%20organised%20better/The%20Bitcoin%20Standard.pdf) (Saifedean Ammous)
+* [The Bitcoin Standard](https://saifedean.com/books/the-bitcoin-standard) (Saifedean Ammous)
 * Cryptoeconomics: [Book](https://voskuil.org/cryptoeconomics/), [Wiki](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics) (Eric Voskuil)
 * [Thank God for Bitcoin](https://www.amazon.com/Thank-God-Bitcoin-Corruption-Redemption/dp/1641991216)
 * [The Bullish Case for Bitcoin](https://www.bullishcaseforbitcoin.com/) (Vijay Boyapati)

@@ -50,7 +50,7 @@
 
 [Shelling Out](https://nakamotoinstitute.org/shelling-out/)
 
-[The Bitcoin Standard (chapters 1-3)](https://www.resistance.money/research/library/to%20be%20organised%20better/The%20Bitcoin%20Standard.pdf)
+[The Bitcoin Standard (chapters 1-3)](https://saifedean.com/books/the-bitcoin-standard)
 
 [The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/)
 
