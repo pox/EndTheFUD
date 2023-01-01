@@ -24,7 +24,7 @@ See [Justice](#justice)
 
 [Pre-Bitcoin Literature @ Satoshi Nakamoto Institute](https://nakamotoinstitute.org/literature/)
 
-[Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
+[Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/research-and-insights/addressing-persisting-bitcoin-criticisms#heading7)
 
 ### *"Bitcoin developers can increase its inflation"*
 
@@ -44,4 +44,4 @@ See [Justice](#justice)
 
 [Why Bitcoin’s Imitators Are Scams](https://tomerstrolight.medium.com/why-bitcoins-imitators-are-scams-e38fab4c78ba)
 
-Links to this topic [endthefud.org/altcoins](https://endthefud.org/altcoins) [shitcoin.review](http://shitcoin.review)
+Links to this topic [endthefud.org/altcoins](https://endthefud.org/altcoins)

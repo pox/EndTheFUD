@@ -8,7 +8,7 @@
 
 [On Stake and Consensus](https://download.wpsoftware.net/bitcoin/pos.pdf) (Andrew Poelstra)
 
-[Proof-of-Stake Is a Defective Mechanism](https://vicentsus.org/docs/proof-of-stake.pdf) (Vicent Sus)
+[Proof-of-Stake Is a Defective Mechanism](https://eprint.iacr.org/2022/409.pdf) (Vicent Sus)
 
 [Long Live Proof-of-Work, Long Live Mining](https://www.truthcoin.info/blog/pow-and-mining) (Paul Sztorc)
 

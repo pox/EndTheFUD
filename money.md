@@ -6,7 +6,7 @@
 
 [Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/) (Lyn Alden)
 
-[Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms) (Ria Bhutoria)
+[Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/research-and-insights/addressing-persisting-bitcoin-criticisms#heading2) (Ria Bhutoria)
 
 
 ### *"Bitcoin is a bad medium-of-exchange"*
@@ -22,7 +22,7 @@
 
 [Value Proposition](https://github.com/libbitcoin/libbitcoin-system/wiki/Value-Proposition)  (Eric Voskuil)
 
-[Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/) (Lyn Alden)
+[Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/) (Section 1 & 2, Lyn Alden)
 
 [How we Know Bitcoin is Not a Bubble](https://nakamotoinstitute.org/mempool/how-we-know-bitcoin-is-not-a-bubble/) (Daniel Krawisz)
 
@@ -38,7 +38,7 @@
 
 ### *"Bitcoin isn't scalable", "Can't process as many payments as Visa"*
 
-[Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/) (Lyn Alden)
+[Misconceptions about Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/) (Section 3, Lyn Alden)
 
 
 ### *"Bitcoin's price is artificially manipulated"*

@@ -29,7 +29,7 @@
 
 [Bitcoin is Not Backed by Nothing](https://nakamotoinstitute.org/mempool/bitcoin-is-not-backed-by-nothing/)
 
-[Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms)
+[Addressing Persisting Bitcoin Criticisms](https://www.fidelitydigitalassets.com/research-and-insights/addressing-persisting-bitcoin-criticisms#heading6)
 
 
 ### *"Bitcoin is mined/controlled by China"*
@@ -50,7 +50,7 @@
 
 [Shelling Out](https://nakamotoinstitute.org/shelling-out/)
 
-[The Bitcoin Standard (chapters 1-3)](https://saifedean.com/book/)
+[The Bitcoin Standard (chapters 1-3)](https://saifedean.com/books/the-bitcoin-standard)
 
 [The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/)
 
