@@ -78,6 +78,10 @@
 
 [How Bitcoin could drive the clean energy revolution](https://www.coincenter.org/how-bitcoin-could-drive-the-clean-energy-revolution/) (Peter Van Valkenburgh)
 
+### *"Bitcoin is bad for Climate Change"*
+
+[8 Reasons Why Climate Change Activists Should Love Bitcoiners](https://www.athena-alpha.com/climate-change-activists-should-love-bitcoiners/) (Athena Alpha)
+
 ### *Bitcoin vs. Gold mining*
 
 [Yellow Rock Bad, Orange Coin Good: Environmental & Social Impacts of Gold & Bitcoin](https://youtu.be/ns_I2LpeAbQ?t=26084) (Hass McCook)
@@ -91,4 +95,3 @@
 [Bitcoin's Energy Consumption - A shift in perspective](https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/) (Gigi)
 
 Links to this topic: [btcCO2.org](http://btcco2.org) [btcenergy.org](http://btcenergy.org) [endthefud.org/energy](https://endthefud.org/energy) [energy.endthefud.org](http://energy.endthefud.org)
-
