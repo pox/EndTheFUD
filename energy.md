@@ -98,4 +98,4 @@
 
 [Why the BBC article on Bitcoin and Water is a monument to journalistic laziness](https://twitter.com/dsbatten/status/1729967479148237100) (Daniel Batten)
 
-Links to this topic: [btcCO2.org](http://btcco2.org) [btcenergy.org](http://btcenergy.org) [endthefud.org/energy](https://endthefud.org/energy) [energy.endthefud.org](http://energy.endthefud.org)
+Links to this topic: [btcCO2.org](http://btcco2.org) [endthefud.org/energy](https://endthefud.org/energy) [energy.endthefud.org](http://energy.endthefud.org)
