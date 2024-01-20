@@ -46,9 +46,7 @@
 
 # Sharing
 
-This website has a few short domain aliases for easier sharing.
-
-* [btcco2.org](http://btcco2.org), & [btcenergy.org](http://btcenergy.org) point to the [Energy](#energy) section.
+* [btcco2.org](http://btcco2.org) points directly to the [Energy](#energy) section.
 
 # Contributing
 
