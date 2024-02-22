@@ -23,6 +23,7 @@
 * [casebitcoin.com - Bitcoin Common Critiques](https://casebitcoin.com/critiques)
 * [Every Reason Bitcoin Will Not Fail](https://safehodl.github.io/failure)
 * [lopp.net - Misconceptions](https://www.lopp.net/bitcoin-information/getting-started.html#misconceptions)
+* [Fidelity Digital Assets - Revisiting Persistent Bitcoin Criticisms](https://www.fidelitydigitalassets.com/research-and-insights/revisiting-persistent-bitcoin-criticisms)
 
 ## Full Guides
 
