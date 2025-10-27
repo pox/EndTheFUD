@@ -14,6 +14,10 @@
 
 [What Quantum Computers Mean for Bitcoin's Future](https://bitcoinreserve.com/blog/debunked-quantum-computing-can-kill-bitcoin) (Arman The Parman)
 
+[Why Quantum Computing will take another 50 years](https://mattdf.xyz/why-quantum-computing-will-take-another-50-years) (Matthew Di Ferrante)
+
+[Quantum computing as a field is obvious bullshit](https://scottlocklin.wordpress.com/2019/01/15/quantum-computing-as-a-field-is-obvious-bullshit/) (Scott Locklin)
+
 ## Other
 ["Block rewards will stop in the future and Bitcoin will lose all security"](https://safehodl.github.io/failure/#block-rewards-will-stop) (safehodl)
 
